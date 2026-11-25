@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>법령·가이드 | AegisAX 자료실</title>
+  <link rel="icon" href="favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="compliance.css">
+  <script src="compliance.js" defer></script>
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="index.html">Aegis<span class="brand-accent">AX</span> 자료실</a></header>
+  <main class="page-shell catalog">
+    <nav class="portal-nav" aria-label="자료실 메뉴">
+      <a href="index.html">디자인 자료</a>
+      <a href="compliance.html" aria-current="page">법령·가이드</a>
+      <a href="#licenses">이용 조건 확인</a>
+    </nav>
+    <h1>법령·가이드</h1>
+    <p>정보통신망·위치정보·개인정보·전자금융 분야의 법령과 기관 발간 자료를 공식 원문에서 확인하세요.</p>
+    <nav id="catalogMenu" class="catalog-menu" aria-label="주제별 자료"></nav>
+    <div class="catalog-controls">
+      <label>자료 검색 <input type="search" id="catalogQuery" placeholder="제목 또는 기관"></label>
+      <label>자료 유형 <select id="catalogType"></select></label>
+    </div>
+    <p id="catalogStatus" role="status">자료 목록을 불러오는 중입니다.</p>
+    <p id="catalogNotice"></p>
+    <ul id="catalogList" class="catalog-list"></ul>
+    <noscript>목록을 보려면 JavaScript를 켜주세요.</noscript>
+  </main>
+</body>
+</html>

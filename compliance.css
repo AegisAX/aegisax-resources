@@ -1,0 +1,15 @@
+.portal-nav{display:flex;flex-wrap:wrap;gap:.6rem;margin:1rem 0}
+.portal-nav a,.catalog-menu button{padding:.5rem .8rem;border:1px solid #bac7d8;border-radius:.55rem;font:inherit}
+.portal-nav [aria-current],.catalog-menu [aria-pressed=true]{background:#244c91;color:white;border-color:#244c91}
+.catalog{padding-bottom:3rem}
+.catalog h1{font-size:clamp(1.8rem,4vw,3rem);margin:1.5rem 0 .5rem}
+.catalog-menu{display:flex;flex-wrap:wrap;gap:.55rem;margin:1.5rem 0}
+.catalog-menu button{cursor:pointer;background:white;color:#193359}
+.catalog-controls{display:flex;gap:.6rem;flex-wrap:wrap;margin:1rem 0}
+.catalog-controls label{display:grid;gap:.3rem}
+.catalog-controls input,.catalog-controls select{font:inherit;padding:.5rem;border:1px solid #bac7d8;border-radius:.4rem;max-width:100%}
+.catalog-list{list-style:none;padding:0;display:grid;gap:.6rem}
+.catalog-list li{background:white;border:1px solid #d7e0ec;border-radius:.55rem;padding:.8rem 1rem;overflow-wrap:anywhere}
+.catalog-list a{color:#244c91;font-weight:650;text-decoration:underline}
+.catalog-list small{display:block;margin-top:.25rem;color:#465771}
+.catalog-list .attention{color:#8b3f11}
