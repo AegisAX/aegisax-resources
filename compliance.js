@@ -4,10 +4,10 @@ const topics = {
   location: "위치정보",
   privacy: "개인정보",
   finance: "전자금융·금융보안",
-  licenses: "이용 조건 확인",
 };
 
 const menu = document.querySelector("#catalogMenu");
+const licensing = !menu;
 const query = document.querySelector("#catalogQuery");
 const type = document.querySelector("#catalogType");
 const status = document.querySelector("#catalogStatus");
@@ -18,10 +18,9 @@ let catalog;
 function render() {
   const requested = location.hash.slice(1);
   const topic = Object.hasOwn(topics, requested) ? requested : "all";
-  for (const button of menu.children) {
+  for (const button of menu?.children ?? []) {
     button.setAttribute("aria-pressed", button.dataset.topic === topic);
   }
-  const licensing = topic === "licenses";
   const rows = licensing ? catalog.licenses : catalog.documents.filter(
     (item) => topic === "all" || item.topic === topic,
   );
@@ -34,8 +33,11 @@ function render() {
     (!type.value || type.value === item.kind) &&
     `${item.title} ${item.publisher}`.toLowerCase().includes(term)
   );
-  const failures = catalog.sources.filter((source) => source.error).length;
-  status.textContent = `${matches.length}건 · 자동 확인 시도 ${catalog.checked}${failures ? ` · 확인 불가 ${failures}건` : ""}`;
+  const failures = licensing
+    ? matches.filter((item) => item.warning).length
+    : catalog.sources.filter((source) => source.error).length;
+  const failureLabel = licensing ? "검토 필요" : "확인 불가";
+  status.textContent = `${matches.length}건 · 자동 확인 시도 ${catalog.checked}${failures ? ` · ${failureLabel} ${failures}건` : ""}`;
   notice.textContent = licensing
     ? "공식 이용 조건 페이지의 변경을 감지합니다. 변경 감지는 이용 허가 변경을 확정하지 않으므로, 원문과 개별 자료 조건을 확인하세요."
     : "법령의 시행일과 문서의 개정 여부는 원문에서 확인하세요. 개정 이력과 과거 안내서는 함께 표시될 수 있습니다.";
@@ -57,14 +59,18 @@ function render() {
   }
 }
 
-fetch("compliance-data.json", { cache: "no-cache" })
-  .then((response) => {
+if (menu && location.hash === "#licenses") {
+  location.replace("licenses.html");
+} else {
+  loadCatalog();
+}
+
+async function loadCatalog() {
+  try {
+    const response = await fetch("compliance-data.json", { cache: "no-cache" });
     if (!response.ok) throw new Error(response.status);
-    return response.json();
-  })
-  .then((data) => {
-    catalog = data;
-    for (const [id, label] of Object.entries(topics)) {
+    catalog = await response.json();
+    for (const [id, label] of menu ? Object.entries(topics) : []) {
       const button = document.createElement("button");
       button.type = "button";
       button.textContent = label;
@@ -72,9 +78,18 @@ fetch("compliance-data.json", { cache: "no-cache" })
       button.addEventListener("click", () => { location.hash = id; });
       menu.append(button);
     }
-    window.addEventListener("hashchange", () => { type.value = ""; render(); });
+    if (menu) window.addEventListener("hashchange", () => {
+      if (location.hash === "#licenses") {
+        location.replace("licenses.html");
+        return;
+      }
+      type.value = "";
+      render();
+    });
     query.addEventListener("input", render);
     type.addEventListener("change", render);
     render();
-  })
-  .catch(() => { status.textContent = "자료 목록을 불러오지 못했습니다. 잠시 뒤 새로고침해 주세요."; });
+  } catch {
+    status.textContent = "자료 목록을 불러오지 못했습니다. 잠시 뒤 새로고침해 주세요.";
+  }
+}
