@@ -1,0 +1,1665 @@
+[
+  {
+    "id": "tabler",
+    "name": "Tabler Icons",
+    "subtitle": "통일된 선형·채움 아이콘",
+    "description": "보안 교육자료, 보고서와 웹 화면의 디자인을 일관되게 맞추기 좋은 범용 아이콘 모음입니다.",
+    "uses": [
+      "website",
+      "presentation",
+      "education",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled"
+    ],
+    "formats": [
+      "SVG",
+      "ZIP"
+    ],
+    "formatNote": "무료 전체 SVG 원본은 공식 GitHub에서 받을 수 있습니다. 사이트에는 PNG·PDF 등을 묶은 유료 번들도 함께 표시됩니다.",
+    "bulk": true,
+    "bulkLabel": "전체 SVG · GitHub ZIP",
+    "licenseGroup": "oss",
+    "licenseLabel": "MIT",
+    "licenseSummary": "MIT 라이선스로 개인·상업적 이용과 수정이 허용됩니다. 복사본이나 중요한 부분을 배포할 때 저작권·허가 고지를 포함해야 합니다.",
+    "creditSummary": "저작권·MIT 라이선스 고지 보존",
+    "commercialSummary": "가능 · MIT 조건 준수",
+    "primaryUrl": "https://tabler.io/icons",
+    "downloadUrl": "https://github.com/tabler/tabler-icons",
+    "downloadLabel": "무료 전체 SVG 받기",
+    "licenseUrl": "https://github.com/tabler/tabler-icons/blob/main/LICENSE",
+    "sources": [
+      {
+        "label": "공식 아이콘·무료/유료 안내",
+        "url": "https://tabler.io/icons"
+      },
+      {
+        "label": "공식 원본 저장소",
+        "url": "https://github.com/tabler/tabler-icons"
+      },
+      {
+        "label": "MIT 라이선스 원문",
+        "url": "https://github.com/tabler/tabler-icons/blob/main/LICENSE"
+      }
+    ],
+    "keywords": "태블러 타블러 tabler security shield lock key server database network computer cloud 보안 방패 자물쇠 서버 데이터베이스 선형 라인 채움 발표 ppt 보고서 오픈소스 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": true,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24"
+  },
+  {
+    "id": "pexels",
+    "name": "Pexels",
+    "subtitle": "무료 사진을 빠르게 찾는 기본 선택",
+    "description": "다양한 주제의 사진을 홈페이지, 발표자료와 SNS 콘텐츠에 활용하기 좋습니다. 계정을 만들지 않아도 무료 이미지를 내려받을 수 있습니다.",
+    "assetTypes": [
+      "photo",
+      "background"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24",
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "photo"
+    ],
+    "formats": [
+      "JPG"
+    ],
+    "formatNote": "JPEG 사진을 개별 다운로드할 수 있습니다. 사진과 함께 무료 동영상도 제공하며, 계정은 다운로드 기록과 즐겨찾기 기능을 사용할 때 유용합니다.",
+    "bulk": false,
+    "bulkLabel": "개별 다운로드",
+    "licenseGroup": "free-license",
+    "licenseLabel": "Pexels License",
+    "licenseSummary": "무료 사진을 개인·상업적 프로젝트에 활용하고 수정할 수 있습니다. 단독 원본 재판매·스톡 플랫폼 재배포·인물이나 브랜드의 보증을 암시하는 사용 등은 제한됩니다.",
+    "creditSummary": "출처 표기 의무 없음 · 표기 권장",
+    "commercialSummary": "허용 범위 내 가능 · 인물·브랜드의 별도 권리 확인",
+    "primaryUrl": "https://www.pexels.com/",
+    "downloadUrl": "https://www.pexels.com/royalty-free-images/",
+    "downloadLabel": "무료 사진 찾아보기",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "sources": [
+      {
+        "label": "공식 라이선스와 사용 예시",
+        "url": "https://www.pexels.com/license/"
+      },
+      {
+        "label": "현재 전체 이용약관",
+        "url": "https://www.pexels.com/terms-of-service/"
+      },
+      {
+        "label": "가입 없이 다운로드 안내",
+        "url": "https://help.pexels.com/hc/en-us/articles/360042627994-What-are-the-benefits-of-joining-Pexels"
+      },
+      {
+        "label": "사진 파일 형식",
+        "url": "https://help.pexels.com/hc/en-us/articles/360042795073-What-are-the-requirements-for-uploading-photos"
+      }
+    ],
+    "keywords": "펙셀스 픽셀스 pexels photo photos free stock nature business people presentation website 사진 이미지 실사 배경 표지 홈페이지 블로그 PPT 인물 자연 무료 무가입 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": true
+  },
+  {
+    "id": "undraw",
+    "name": "unDraw",
+    "subtitle": "색상을 맞춰 쓰는 범용 일러스트",
+    "description": "홈페이지 소개 화면과 PPT의 업무·일상 장면을 일관된 그림으로 표현하기 좋습니다.",
+    "assetTypes": [
+      "illustration"
+    ],
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "filled",
+      "color"
+    ],
+    "formats": [
+      "SVG",
+      "PNG"
+    ],
+    "formatNote": "공식 일러스트 페이지에서 색상을 정한 뒤 SVG 또는 PNG로 개별 다운로드할 수 있습니다.",
+    "bulk": false,
+    "bulkLabel": "개별 일러스트 다운로드",
+    "licenseGroup": "free-license",
+    "licenseLabel": "unDraw 라이선스",
+    "licenseSummary": "개인·상업적 프로젝트에서 무료로 사용하고 수정할 수 있습니다. 그림을 묶어 재배포하거나 유사한 자료 서비스를 만드는 용도, AI 학습 등은 제한됩니다.",
+    "creditSummary": "출처 표기 의무 없음",
+    "commercialSummary": "가능 · 홈페이지·PPT 등 프로젝트에 활용",
+    "primaryUrl": "https://undraw.co/",
+    "downloadUrl": "https://undraw.co/illustrations",
+    "downloadLabel": "무료 일러스트 찾아보기",
+    "licenseUrl": "https://undraw.co/license",
+    "sources": [
+      {
+        "label": "공식 일러스트·다운로드 안내",
+        "url": "https://undraw.co/"
+      },
+      {
+        "label": "공식 라이선스",
+        "url": "https://undraw.co/license"
+      }
+    ],
+    "keywords": "언드로 undraw svg png 일러스트 홈페이지 웹사이트 ppt 발표 업무 사람 팀워크 비즈니스 교육 색상 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "freeScope": "free",
+    "sourceDate": "2026-11-24",
+    "recommended": true
+  },
+  {
+    "id": "svgrepo",
+    "name": "SVG Repo",
+    "subtitle": "다양한 스타일을 한곳에서",
+    "description": "단색, 컬러, 두 가지 색 등 다양한 스타일에서 필요한 보안 개념의 아이콘을 골라 찾기 좋습니다.",
+    "uses": [
+      "website",
+      "presentation",
+      "education",
+      "network",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled",
+      "color",
+      "duotone"
+    ],
+    "formats": [
+      "SVG",
+      "PNG"
+    ],
+    "formatNote": "개별 아이콘에서 SVG와 PNG를 받을 수 있습니다. 관련 컬렉션에서 같은 스타일의 아이콘을 찾아보세요.",
+    "bulk": false,
+    "bulkLabel": "개별 다운로드 중심",
+    "licenseGroup": "mixed",
+    "licenseLabel": "아이콘별 상이",
+    "licenseSummary": "SVG Repo 자체 라이선스, CC0, MIT, CC BY 등 아이콘마다 조건이 다릅니다. 상세 페이지의 LICENSE와 원문에서 출처 표기·상업적 이용·재배포 조건을 확인하세요.",
+    "creditSummary": "개별 LICENSE 확인 · CC BY 등은 출처 필요",
+    "commercialSummary": "아이콘별 라이선스에 따라 판단",
+    "primaryUrl": "https://www.svgrepo.com/",
+    "downloadUrl": "https://www.svgrepo.com/vectors/cyber-security/",
+    "downloadLabel": "보안 아이콘 찾아보기",
+    "licenseUrl": "https://www.svgrepo.com/page/licensing/",
+    "sources": [
+      {
+        "label": "사이버보안 아이콘·스타일",
+        "url": "https://www.svgrepo.com/vectors/cyber-security/"
+      },
+      {
+        "label": "SVG·PNG 다운로드 예시",
+        "url": "https://www.svgrepo.com/svg/48789/security"
+      },
+      {
+        "label": "공식 라이선스 안내",
+        "url": "https://www.svgrepo.com/page/licensing/"
+      }
+    ],
+    "keywords": "에스브이지 SVG Repo security privacy protection authentication phishing malware virus firewall network 보안 개인정보 인증 피싱 악성코드 방화벽 컬러 듀오톤 일러스트 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "per-item",
+    "sourceDate": "2026-11-24"
+  },
+  {
+    "id": "unsplash",
+    "name": "Unsplash",
+    "subtitle": "홈페이지와 PPT를 위한 감각적인 사진",
+    "description": "자연, 인물, 업무, 건축 등 분위기 있는 사진을 찾기 좋습니다. 홈페이지 메인 이미지와 PPT 표지·배경에 추천합니다.",
+    "assetTypes": [
+      "photo",
+      "background"
+    ],
+    "freeScope": "mixed",
+    "sourceDate": "2026-11-24",
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "photo"
+    ],
+    "formats": [
+      "JPG"
+    ],
+    "formatNote": "사진 상세 페이지에서 원하는 크기로 다운로드할 수 있습니다. 무료 사진과 유료 Unsplash+ 자료가 함께 표시되며, 컬렉션 전체 다운로드는 Unsplash+ 구독 기능입니다.",
+    "bulk": false,
+    "bulkLabel": "무료는 개별 다운로드 · 일괄은 유료",
+    "licenseGroup": "free-license",
+    "licenseLabel": "Unsplash License",
+    "licenseSummary": "Unsplash License가 적용된 무료 이미지는 개인·상업적 프로젝트에 수정하여 사용할 수 있습니다. 상당한 수정 없이 이미지를 판매하거나 경쟁 이미지 서비스를 만드는 것은 허용되지 않습니다.",
+    "creditSummary": "무료 사진은 출처 표기 의무 없음 · 표기 권장",
+    "commercialSummary": "허용 범위 내 가능 · 인물·브랜드 등 별도 권리 확인",
+    "primaryUrl": "https://unsplash.com/",
+    "downloadUrl": "https://unsplash.com/",
+    "downloadLabel": "무료 사진 찾아보기",
+    "licenseUrl": "https://unsplash.com/license",
+    "sources": [
+      {
+        "label": "공식 무료 이미지 라이선스",
+        "url": "https://unsplash.com/license"
+      },
+      {
+        "label": "사진 다운로드 안내",
+        "url": "https://help.unsplash.com/en/articles/2534407-downloading-photos"
+      },
+      {
+        "label": "전체 다운로드의 유료 조건",
+        "url": "https://help.unsplash.com/en/articles/2574039-bulk-downloading-download-all"
+      },
+      {
+        "label": "Unsplash+ 별도 라이선스",
+        "url": "https://help.unsplash.com/en/articles/6604652-what-is-the-unsplash-license"
+      }
+    ],
+    "keywords": "언스플래시 언스플래쉬 unsplash stock photo image photography nature business people background hero banner 홈페이지 사진 이미지 자연 인물 비즈니스 사무실 배경 표지 PPT 프레젠테이션 무료 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": true
+  },
+  {
+    "id": "manypixels",
+    "name": "ManyPixels Gallery",
+    "subtitle": "여러 스타일의 주제별 일러스트",
+    "description": "업무·여행·교육·생활 주제를 찾아 홈페이지나 발표자료에 어울리는 그림을 고르기 좋습니다.",
+    "assetTypes": [
+      "illustration"
+    ],
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "line",
+      "filled",
+      "color"
+    ],
+    "formats": [
+      "이미지별"
+    ],
+    "formatNote": "갤러리에서 원하는 일러스트와 스타일을 선택하고 해당 다운로드 형식을 확인하세요.",
+    "bulk": false,
+    "bulkLabel": "개별 일러스트 다운로드",
+    "licenseGroup": "free-license",
+    "licenseLabel": "ManyPixels 갤러리 라이선스",
+    "licenseSummary": "갤러리의 일러스트는 개인·상업적 프로젝트에 무료로 사용하고 수정할 수 있습니다. 원본을 팩으로 묶어 배포하거나 유사한 자료 서비스를 구성하는 용도는 제한됩니다.",
+    "creditSummary": "출처 표기 의무 없음",
+    "commercialSummary": "가능 · 갤러리 이용 조건 준수",
+    "primaryUrl": "https://www.manypixels.co/gallery",
+    "downloadUrl": "https://www.manypixels.co/gallery",
+    "downloadLabel": "무료 갤러리 살펴보기",
+    "licenseUrl": "https://www.manypixels.co/gallery",
+    "sources": [
+      {
+        "label": "공식 갤러리·라이선스",
+        "url": "https://www.manypixels.co/gallery"
+      }
+    ],
+    "keywords": "매니픽셀 many pixels manypixels 갤러리 일러스트 비즈니스 업무 여행 교육 음식 사람 홈페이지 ppt 웹사이트 컬러 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "freeScope": "free",
+    "sourceDate": "2026-11-24",
+    "recommended": false
+  },
+  {
+    "sourceDate": "2026-11-24",
+    "recommended": true,
+    "id": "haikei",
+    "name": "Haikei",
+    "subtitle": "색을 바꾸어 만드는 추상 배경",
+    "description": "물결, 도형과 추상 패턴의 색과 구성을 조절해 홈페이지 첫 화면이나 PPT 배경을 직접 만들 수 있습니다.",
+    "assetTypes": [
+      "background"
+    ],
+    "freeScope": "free",
+    "uses": [
+      "website",
+      "presentation",
+      "content"
+    ],
+    "styles": [
+      "abstract",
+      "color"
+    ],
+    "formats": [
+      "SVG",
+      "PNG"
+    ],
+    "formatNote": "무료 기본 생성기에서 SVG와 중간 해상도 PNG를 내보낼 수 있습니다. 가입 없이 이용할 수 있으며 다운로드 수 제한이 없습니다.",
+    "bulk": false,
+    "bulkLabel": "배경을 생성해 개별 다운로드",
+    "licenseGroup": "free-license",
+    "licenseLabel": "Haikei 무료 이용 안내",
+    "licenseSummary": "직접 만든 디자인을 개인·상업적 프로젝트와 고객 작업에 사용하고 편집할 수 있습니다. 같은 종류의 디자인 생성 서비스를 만드는 데 사용하는 것은 제한됩니다.",
+    "creditSummary": "출처 표기 불필요",
+    "commercialSummary": "가능 · 유사 생성 서비스 제작 제한",
+    "primaryUrl": "https://haikei.app/",
+    "downloadUrl": "https://app.haikei.app/",
+    "downloadLabel": "배경 만들고 다운로드",
+    "licenseUrl": "https://haikei.app/pricing/",
+    "sources": [
+      {
+        "label": "공식 무료 형식·사용 범위·출처 안내",
+        "url": "https://haikei.app/pricing/"
+      }
+    ],
+    "keywords": "하이케이 haikei waves blob background gradient abstract svg png 배경 물결 추상 그라데이션 파도 홈페이지 표지 ppt 홈페이지 PPT 프레젠테이션 무료 디자인 자료"
+  },
+  {
+    "id": "3dicons",
+    "name": "3dicons · 무료 V1 세트",
+    "subtitle": "입체감 있는 3D 아이콘",
+    "description": "홈페이지의 기능 소개나 PPT의 강조 요소에 쓰기 좋은 입체 아이콘 세트입니다.",
+    "assetTypes": [
+      "icon",
+      "3d"
+    ],
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "3d",
+      "color"
+    ],
+    "formats": [
+      "PNG"
+    ],
+    "formatNote": "무료 V1의 PNG 모음을 받을 수 있습니다. 현재 사이트의 신규·Pro 아이콘과 편집 기능은 별도 무료·유료 조건이 적용됩니다.",
+    "bulk": true,
+    "bulkLabel": "무료 V1 PNG 모음",
+    "licenseGroup": "cc0",
+    "licenseLabel": "무료 V1 · CC0",
+    "licenseSummary": "초기 공개 V1 세트는 CC0로 개인·상업적 사용과 수정·복사·재배포가 가능합니다. 현재 사이트의 모든 신규·유료 자료에 이 조건이 적용되는 것은 아니므로 V1을 선택하세요.",
+    "creditSummary": "무료 V1은 출처 표기 의무 없음",
+    "commercialSummary": "무료 V1 가능 · 새 자료는 개별 조건 확인",
+    "primaryUrl": "https://3dicons.co/",
+    "downloadUrl": "https://old.3dicons.co/",
+    "downloadLabel": "무료 V1 모음 받기",
+    "licenseUrl": "https://3dicons.co/about",
+    "sources": [
+      {
+        "label": "공식 무료·유료 및 V1 안내",
+        "url": "https://3dicons.co/"
+      },
+      {
+        "label": "무료 V1 PNG 다운로드·CC0",
+        "url": "https://old.3dicons.co/"
+      },
+      {
+        "label": "CC0 적용 범위 안내",
+        "url": "https://3dicons.co/about"
+      }
+    ],
+    "keywords": "3dicons 3d 아이콘 입체 쓰리디 png 홈페이지 ppt 발표 무료 v1 cc0 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "freeScope": "mixed",
+    "sourceDate": "2026-11-24",
+    "recommended": true
+  },
+  {
+    "id": "material",
+    "name": "Google Material Symbols",
+    "subtitle": "익숙하고 명확한 설명용 아이콘",
+    "description": "채움과 선 굵기 등을 조절할 수 있는 Google 공식 아이콘으로 화면과 설명자료에 활용하기 좋습니다.",
+    "uses": [
+      "website",
+      "presentation",
+      "education",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled"
+    ],
+    "formats": [
+      "SVG",
+      "PNG",
+      "ZIP"
+    ],
+    "formatNote": "공식 라이브러리에서 개별 SVG·PNG를 받고, GitHub 저장소에서 전체 SVG 원본을 받을 수 있습니다.",
+    "bulk": true,
+    "bulkLabel": "전체 SVG · GitHub ZIP",
+    "licenseGroup": "oss",
+    "licenseLabel": "Apache 2.0",
+    "licenseSummary": "Apache 2.0 라이선스로 개인·상업적 프로젝트에 사용할 수 있습니다. 재배포 시 라이선스 사본, 관련 고지 및 변경사항 표시 등 해당 조건을 따라야 합니다.",
+    "creditSummary": "라이선스·관련 고지 보존, 수정 시 변경 표시",
+    "commercialSummary": "가능 · Apache 2.0 조건 준수",
+    "primaryUrl": "https://fonts.google.com/icons",
+    "downloadUrl": "https://github.com/google/material-design-icons",
+    "downloadLabel": "전체 SVG 원본 받기",
+    "licenseUrl": "https://github.com/google/material-design-icons/blob/master/LICENSE",
+    "sources": [
+      {
+        "label": "공식 아이콘 라이브러리",
+        "url": "https://fonts.google.com/icons"
+      },
+      {
+        "label": "형식·다운로드·라이선스 안내",
+        "url": "https://developers.google.com/fonts/docs/material_symbols"
+      },
+      {
+        "label": "Apache 2.0 라이선스 원문",
+        "url": "https://github.com/google/material-design-icons/blob/master/LICENSE"
+      }
+    ],
+    "keywords": "구글 머티리얼 material symbols icons security password vpn privacy lock computer storage 네트워크 계정 인증 개인정보 컴퓨터 스마트폰 굵기 채움 오픈소스 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24"
+  },
+  {
+    "id": "pixabay",
+    "name": "Pixabay",
+    "subtitle": "사진·벡터·일러스트를 폭넓게 탐색",
+    "description": "사진부터 일러스트와 벡터 그래픽까지 여러 종류의 자료를 한곳에서 찾을 수 있습니다. 홈페이지 배너, PPT 설명 그림과 배경 소재를 고를 때 편리합니다.",
+    "assetTypes": [
+      "photo",
+      "illustration",
+      "background"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24",
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "photo",
+      "color",
+      "abstract"
+    ],
+    "formats": [
+      "JPG",
+      "PNG",
+      "SVG"
+    ],
+    "formatNote": "사진은 JPG, 일부 벡터는 PNG·SVG로 제공됩니다. 자료 상세 페이지의 Free download에서 해당 항목의 형식과 크기를 선택하세요.",
+    "bulk": false,
+    "bulkLabel": "자료별 다운로드",
+    "licenseGroup": "free-license",
+    "licenseLabel": "Pixabay Content License",
+    "licenseSummary": "콘텐츠를 무료로 이용하고 수정할 수 있으며 출처 표기는 필수가 아닙니다. 창작적 변경 없는 단독 판매·배포, 상표 등록과 특정 브랜드 관련 상업적 사용 등은 제한됩니다.",
+    "creditSummary": "출처 표기 의무 없음 · 표기 권장",
+    "commercialSummary": "금지 용도 제외 가능 · 인물·상표 등 추가 권리 확인",
+    "primaryUrl": "https://pixabay.com/",
+    "downloadUrl": "https://pixabay.com/",
+    "downloadLabel": "사진·벡터 찾아보기",
+    "licenseUrl": "https://pixabay.com/service/license-summary/",
+    "sources": [
+      {
+        "label": "공식 콘텐츠 라이선스",
+        "url": "https://pixabay.com/service/license-summary/"
+      },
+      {
+        "label": "자료 유형·다운로드 안내",
+        "url": "https://pixabay.com/service/faq/"
+      },
+      {
+        "label": "JPG 사진 제공 예시",
+        "url": "https://pixabay.com/photos/terms-and-conditions-of-use-7199836/"
+      },
+      {
+        "label": "PNG·SVG 제공 예시",
+        "url": "https://pixabay.com/vectors/graphic-abstract-modern-art-8564947/"
+      }
+    ],
+    "keywords": "픽사베이 pixabay photo vector illustration png svg image background 사진 이미지 벡터 일러스트 배경 패턴 홈페이지 PPT 프레젠테이션 교육 무료 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false
+  },
+  {
+    "sourceDate": "2026-11-24",
+    "recommended": false,
+    "id": "heroicons",
+    "name": "Heroicons",
+    "subtitle": "화면과 PPT에 맞는 정돈된 아이콘",
+    "description": "간결한 선형과 채움형 아이콘으로 홈페이지 메뉴, 기능 설명과 발표자료의 스타일을 맞추기 좋습니다.",
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "uses": [
+      "website",
+      "presentation",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled"
+    ],
+    "formats": [
+      "SVG",
+      "ZIP"
+    ],
+    "formatNote": "개별 SVG를 복사하거나 공식 GitHub에서 전체 SVG 원본을 ZIP으로 받을 수 있습니다.",
+    "bulk": true,
+    "bulkLabel": "전체 SVG · GitHub ZIP",
+    "licenseGroup": "oss",
+    "licenseLabel": "MIT",
+    "licenseSummary": "MIT 라이선스로 개인·상업적 프로젝트에서 사용하고 수정할 수 있습니다. 파일을 배포할 때 저작권과 라이선스 고지를 보존하세요.",
+    "creditSummary": "저작권·MIT 라이선스 고지 보존",
+    "commercialSummary": "가능 · MIT 조건 준수",
+    "primaryUrl": "https://heroicons.com/",
+    "downloadUrl": "https://github.com/tailwindlabs/heroicons",
+    "downloadLabel": "전체 SVG 모음 받기",
+    "licenseUrl": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE",
+    "sources": [
+      {
+        "label": "공식 아이콘 라이브러리",
+        "url": "https://heroicons.com/"
+      },
+      {
+        "label": "공식 SVG 원본·MIT 라이선스",
+        "url": "https://github.com/tailwindlabs/heroicons"
+      }
+    ],
+    "keywords": "히어로아이콘 heroicons tailwind ui website presentation homepage ppt outline solid menu 홈페이지 웹 메뉴 발표 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료"
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco Network Topology Icons",
+    "subtitle": "네트워크 구성도를 위한 공식 세트",
+    "description": "네트워크 장비와 연결 구조를 설명하는 구성도에 쓰기 좋은 Cisco 공식 아이콘 모음입니다.",
+    "uses": [
+      "presentation",
+      "education",
+      "network"
+    ],
+    "styles": [
+      "filled",
+      "color"
+    ],
+    "formats": [
+      "Visio",
+      "EPS",
+      "JPG",
+      "ZIP"
+    ],
+    "formatNote": "PowerPoint용 ZIP, Visio .vss 묶음, EPS·JPG를 제공합니다. PowerPoint 파일의 PPT/PPTX 세부 형식은 내려받는 패키지에서 확인하세요.",
+    "bulk": true,
+    "bulkLabel": "PowerPoint·Visio 묶음 ZIP",
+    "licenseGroup": "vendor",
+    "licenseLabel": "Cisco 이용 지침",
+    "licenseSummary": "Cisco는 네트워크 토폴로지 아이콘을 자유롭게 사용할 수 있다고 안내합니다. 아이콘 자체를 변경하는 것은 금지하며 일반 Cisco 로고 사용 권한과는 구분해야 합니다.",
+    "creditSummary": "공식 이용 지침 적용 · 아이콘 변경 금지",
+    "commercialSummary": "구성도·기업 발표자료 용도 · 변경 금지",
+    "primaryUrl": "https://www.cisco.com/c/en/us/about/brand-center/network-topology-icons.html",
+    "downloadUrl": "https://www.cisco.com/c/en/us/about/brand-center/network-topology-icons.html",
+    "downloadLabel": "공식 묶음 다운로드",
+    "licenseUrl": "https://www.cisco.com/c/en/us/about/brand-center/network-topology-icons.html",
+    "sources": [
+      {
+        "label": "공식 다운로드·이용 지침",
+        "url": "https://www.cisco.com/c/en/us/about/brand-center/network-topology-icons.html"
+      }
+    ],
+    "keywords": "시스코 cisco topology router switch firewall server network infrastructure visio powerpoint ppt pptx 구성도 토폴로지 라우터 스위치 방화벽 네트워크 인프라 장비 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": true,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24"
+  },
+  {
+    "sourceDate": "2026-11-24",
+    "recommended": true,
+    "id": "phosphor",
+    "name": "Phosphor Icons",
+    "subtitle": "여러 굵기와 듀오톤을 갖춘 세트",
+    "description": "얇은 선부터 굵은 선, 채움과 듀오톤까지 같은 아이콘을 여러 느낌으로 활용할 수 있습니다.",
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "uses": [
+      "website",
+      "presentation",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled",
+      "duotone"
+    ],
+    "formats": [
+      "SVG",
+      "ZIP"
+    ],
+    "formatNote": "공식 사이트의 전체 다운로드 또는 GitHub SVG 원본 모음을 이용할 수 있습니다. 굵기별 SVG는 원본 저장소의 assets 폴더에 있습니다.",
+    "bulk": true,
+    "bulkLabel": "전체 SVG 다운로드",
+    "licenseGroup": "oss",
+    "licenseLabel": "MIT",
+    "licenseSummary": "MIT 라이선스로 개인·상업적 프로젝트에서 무료로 사용하고 수정할 수 있습니다. 배포하는 파일에는 저작권과 라이선스 고지를 유지하세요.",
+    "creditSummary": "저작권·MIT 라이선스 고지 보존",
+    "commercialSummary": "가능 · MIT 조건 준수",
+    "primaryUrl": "https://phosphoricons.com/",
+    "downloadUrl": "https://github.com/phosphor-icons/core",
+    "downloadLabel": "전체 SVG 모음 받기",
+    "licenseUrl": "https://github.com/phosphor-icons/core/blob/main/LICENSE",
+    "sources": [
+      {
+        "label": "공식 아이콘·전체 다운로드",
+        "url": "https://phosphoricons.com/"
+      },
+      {
+        "label": "공식 SVG 원본·MIT 라이선스",
+        "url": "https://github.com/phosphor-icons/core"
+      }
+    ],
+    "keywords": "포스퍼 포스포르 phosphor thin light regular bold fill duotone 듀오톤 굵기 아이콘 홈페이지 ppt 발표자료 ui 홈페이지 PPT 프레젠테이션 무료 디자인 자료"
+  },
+  {
+    "id": "drawkit",
+    "name": "DrawKit",
+    "subtitle": "테마별 무료 일러스트 팩",
+    "description": "브랜드 소개와 발표자료에 사용할 일러스트·아이콘을 같은 테마의 팩으로 모아 받을 수 있습니다.",
+    "assetTypes": [
+      "illustration",
+      "icon",
+      "3d"
+    ],
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "line",
+      "color",
+      "handdrawn",
+      "3d"
+    ],
+    "formats": [
+      "SVG",
+      "PNG"
+    ],
+    "formatNote": "Free 표시된 팩을 선택하세요. 무료 Classic 팩은 SVG·PNG 등을 제공하며 다른 팩의 형식은 상세 페이지에서 확인할 수 있습니다.",
+    "bulk": true,
+    "bulkLabel": "무료 팩별 일괄 다운로드",
+    "licenseGroup": "free-license",
+    "licenseLabel": "DrawKit 라이선스",
+    "licenseSummary": "무료 팩은 개인·상업적 인쇄물과 디지털 프로젝트에 사용할 수 있으며 출처 표기는 필수가 아닙니다. 원본 파일 재배포, 템플릿에 자료 파일을 포함하는 배포, 그림 자체를 활용한 상품 판매 등은 제한됩니다.",
+    "creditSummary": "출처 표기 의무 없음",
+    "commercialSummary": "가능 · 무료 팩 및 재배포 제한 확인",
+    "primaryUrl": "https://www.drawkit.com/",
+    "downloadUrl": "https://www.drawkit.com/free-illustrations",
+    "downloadLabel": "무료 팩 찾아보기",
+    "licenseUrl": "https://www.drawkit.com/license",
+    "sources": [
+      {
+        "label": "공식 무료 팩 목록",
+        "url": "https://www.drawkit.com/free-illustrations"
+      },
+      {
+        "label": "무료 Classic 팩·SVG/PNG",
+        "url": "https://www.drawkit.com/illustrations/drawkit-classic"
+      },
+      {
+        "label": "공식 라이선스",
+        "url": "https://www.drawkit.com/license"
+      }
+    ],
+    "keywords": "드로우킷 drawkit 그림 일러스트 아이콘 무료 팩 svg png 손그림 3d 사람 비즈니스 홈페이지 ppt 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "freeScope": "mixed",
+    "sourceDate": "2026-11-24",
+    "recommended": false
+  },
+  {
+    "sourceDate": "2026-11-24",
+    "recommended": false,
+    "id": "heropatterns",
+    "name": "Hero Patterns",
+    "subtitle": "반복해서 이어지는 SVG 패턴",
+    "description": "전경색과 배경색, 투명도를 바꿔 홈페이지 섹션이나 발표자료에 사용할 반복 패턴을 만들 수 있습니다.",
+    "assetTypes": [
+      "background"
+    ],
+    "freeScope": "free",
+    "uses": [
+      "website",
+      "presentation",
+      "content"
+    ],
+    "styles": [
+      "abstract",
+      "line",
+      "filled"
+    ],
+    "formats": [
+      "SVG"
+    ],
+    "formatNote": "선택한 패턴의 SVG를 받거나 생성된 CSS 코드를 복사할 수 있습니다.",
+    "bulk": false,
+    "bulkLabel": "패턴별 SVG 다운로드",
+    "licenseGroup": "attribution",
+    "licenseLabel": "CC BY 4.0",
+    "licenseSummary": "CC BY 4.0에 따라 출처를 밝히고 라이선스를 연결하면 개인·상업적 용도로 사용하고 수정할 수 있습니다. 수정한 경우 변경 여부도 표시하세요.",
+    "creditSummary": "제작자 출처·라이선스 링크·변경 여부 표시",
+    "commercialSummary": "가능 · CC BY 4.0 조건 준수",
+    "primaryUrl": "https://heropatterns.com/",
+    "downloadUrl": "https://heropatterns.com/",
+    "downloadLabel": "패턴 선택·SVG 받기",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sources": [
+      {
+        "label": "공식 SVG 패턴·라이선스 선언",
+        "url": "https://heropatterns.com/"
+      },
+      {
+        "label": "CC BY 4.0 이용 조건",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "keywords": "히어로패턴 hero patterns pattern repeating background svg css 패턴 반복 타일 배경 도형 홈페이지 ppt 홈페이지 PPT 프레젠테이션 무료 디자인 자료"
+  },
+  {
+    "id": "fluentemoji",
+    "name": "Microsoft Fluent Emoji",
+    "subtitle": "친근한 컬러·입체 이모지",
+    "description": "감정과 사물을 표현하는 이모지를 홈페이지·PPT·교육 콘텐츠의 시각 요소로 활용할 수 있습니다.",
+    "assetTypes": [
+      "icon",
+      "illustration",
+      "3d"
+    ],
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "filled",
+      "color",
+      "3d"
+    ],
+    "formats": [
+      "SVG",
+      "PNG",
+      "ZIP"
+    ],
+    "formatNote": "공식 GitHub 저장소에서 SVG·PNG 자료와 전체 원본을 받을 수 있습니다. 스타일별 파일은 assets 폴더에서 확인하세요.",
+    "bulk": true,
+    "bulkLabel": "전체 원본 · GitHub ZIP",
+    "licenseGroup": "oss",
+    "licenseLabel": "MIT",
+    "licenseSummary": "MIT 라이선스로 개인·상업적 사용과 수정이 가능합니다. 파일이나 주요 부분을 복사·배포할 때 Microsoft 저작권 고지와 라이선스 문구를 보존하세요.",
+    "creditSummary": "Microsoft 저작권·MIT 고지 보존",
+    "commercialSummary": "가능 · MIT 조건 준수",
+    "primaryUrl": "https://github.com/microsoft/fluentui-emoji",
+    "downloadUrl": "https://github.com/microsoft/fluentui-emoji",
+    "downloadLabel": "공식 이모지 원본 받기",
+    "licenseUrl": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+    "sources": [
+      {
+        "label": "공식 원본 저장소",
+        "url": "https://github.com/microsoft/fluentui-emoji"
+      },
+      {
+        "label": "MIT 라이선스 원문",
+        "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
+      },
+      {
+        "label": "Microsoft Design의 SVG·PNG 안내",
+        "url": "https://medium.com/microsoft-design/designing-in-the-open-source-5c62be73a599"
+      }
+    ],
+    "keywords": "마이크로소프트 fluent emoji 플루언트 이모지 이모티콘 입체 3d 컬러 표정 사물 아이콘 홈페이지 ppt svg png mit 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "freeScope": "free",
+    "sourceDate": "2026-11-24",
+    "recommended": false
+  },
+  {
+    "id": "lucide",
+    "name": "Lucide",
+    "subtitle": "간결하고 정돈된 라인 아이콘",
+    "description": "깔끔한 선형 디자인으로 보안 교육자료와 웹·앱 인터페이스에 자연스럽게 어울리는 아이콘 모음입니다.",
+    "uses": [
+      "website",
+      "presentation",
+      "education",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line"
+    ],
+    "formats": [
+      "SVG",
+      "ZIP"
+    ],
+    "formatNote": "개별 SVG를 탐색하거나 공식 GitHub 저장소의 전체 원본을 ZIP으로 받을 수 있습니다.",
+    "bulk": true,
+    "bulkLabel": "전체 SVG · GitHub ZIP",
+    "licenseGroup": "oss",
+    "licenseLabel": "ISC · 일부 MIT",
+    "licenseSummary": "개인·상업적 이용은 무료이며 기본적으로 ISC 라이선스가 적용됩니다. Feather에서 유래한 일부 아이콘에는 MIT 조건도 있으므로 함께 제공되는 저작권·라이선스 고지를 보존하세요.",
+    "creditSummary": "ISC·MIT 저작권 및 허가 고지 보존",
+    "commercialSummary": "가능 · ISC 및 해당 MIT 조건 준수",
+    "primaryUrl": "https://lucide.dev/icons/",
+    "downloadUrl": "https://github.com/lucide-icons/lucide",
+    "downloadLabel": "전체 SVG 원본 받기",
+    "licenseUrl": "https://lucide.dev/license",
+    "sources": [
+      {
+        "label": "공식 아이콘 탐색",
+        "url": "https://lucide.dev/icons/"
+      },
+      {
+        "label": "공식 원본·상업적 이용 안내",
+        "url": "https://github.com/lucide-icons/lucide"
+      },
+      {
+        "label": "ISC·MIT 라이선스 원문",
+        "url": "https://lucide.dev/license"
+      }
+    ],
+    "keywords": "루시드 루사이드 lucide shield lock key server database fingerprint security 선형 라인 보안 인증 서버 지문 대시보드 웹 앱 오픈소스 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24"
+  },
+  {
+    "id": "stocksnap",
+    "name": "StockSnap",
+    "subtitle": "CC0로 제공하는 고해상도 사진",
+    "description": "비즈니스, 자연, 사무실, 음식 등 다양한 주제의 사진을 제공합니다. 홈페이지나 PPT에 넣을 사진을 CC0 조건으로 찾을 때 유용합니다.",
+    "assetTypes": [
+      "photo",
+      "background"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24",
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "photo"
+    ],
+    "formats": [
+      "이미지별"
+    ],
+    "formatNote": "개별 사진 페이지에서 고해상도 원본을 내려받습니다. 필요한 파일 형식과 크기는 다운로드 항목에서 확인하세요. 계정을 만들면 즐겨찾기를 사용할 수 있습니다.",
+    "bulk": false,
+    "bulkLabel": "개별 사진 다운로드",
+    "licenseGroup": "cc0",
+    "licenseLabel": "CC0",
+    "licenseSummary": "StockSnap이 제공하는 사진은 CC0로 공개되어 복사·수정·공유 및 개인·상업적 이용이 가능합니다. 사진에 등장하는 인물·브랜드 등의 별도 권리는 사용 맥락에 따라 확인하세요.",
+    "creditSummary": "CC0에 따라 저작자 표기 의무 없음",
+    "commercialSummary": "CC0 조건으로 가능 · 별도 인물·상표 권리 확인",
+    "primaryUrl": "https://stocksnap.io/",
+    "downloadUrl": "https://stocksnap.io/free-stock-photos",
+    "downloadLabel": "CC0 사진 찾아보기",
+    "licenseUrl": "https://stocksnap.io/license",
+    "sources": [
+      {
+        "label": "공식 CC0 라이선스 안내",
+        "url": "https://stocksnap.io/license"
+      },
+      {
+        "label": "무료 사진·계정 안내",
+        "url": "https://stocksnap.io/faq"
+      },
+      {
+        "label": "무료 고해상도 사진",
+        "url": "https://stocksnap.io/free-stock-photos"
+      }
+    ],
+    "keywords": "스톡스냅 stocksnap stock snap cc0 photo high resolution business nature background 사진 고해상도 업무 사무실 자연 배경 홈페이지 PPT 상업적 무료 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false
+  },
+  {
+    "id": "opendoodles",
+    "name": "Open Doodles",
+    "subtitle": "가볍고 개성 있는 손그림",
+    "description": "자유로운 인물 스케치로 홈페이지·PPT·콘텐츠에 친근한 분위기를 더할 수 있습니다.",
+    "assetTypes": [
+      "illustration"
+    ],
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "handdrawn",
+      "line",
+      "color"
+    ],
+    "formats": [
+      "SVG",
+      "PNG"
+    ],
+    "formatNote": "공식 페이지에서 개별 SVG·PNG를 바로 받을 수 있습니다. 일부 그림은 GIF도 제공합니다.",
+    "bulk": false,
+    "bulkLabel": "개별 SVG·PNG 다운로드",
+    "licenseGroup": "cc0",
+    "licenseLabel": "CC0",
+    "licenseSummary": "CC0로 공개되어 개인·상업적 사용, 수정, 복사와 재배포가 가능합니다. 원본 스케치와 조합을 바꿔 자신만의 장면을 만들 수 있습니다.",
+    "creditSummary": "출처 표기 의무 없음",
+    "commercialSummary": "가능 · CC0 공개 자료",
+    "primaryUrl": "https://www.opendoodles.com/",
+    "downloadUrl": "https://www.opendoodles.com/",
+    "downloadLabel": "손그림 일러스트 받기",
+    "licenseUrl": "https://www.opendoodles.com/about",
+    "sources": [
+      {
+        "label": "공식 SVG·PNG 다운로드",
+        "url": "https://www.opendoodles.com/"
+      },
+      {
+        "label": "공식 CC0·사용 안내",
+        "url": "https://www.opendoodles.com/about"
+      }
+    ],
+    "keywords": "오픈두들 open doodles 손그림 스케치 사람 인물 일러스트 홈페이지 ppt cc0 svg png 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "freeScope": "free",
+    "sourceDate": "2026-11-24",
+    "recommended": false
+  },
+  {
+    "sourceDate": "2026-11-24",
+    "recommended": false,
+    "id": "bootstrap",
+    "name": "Bootstrap Icons",
+    "subtitle": "웹·문서에 두루 쓰는 범용 SVG",
+    "description": "기능, 업무, 사람과 기기를 표현하는 범용 아이콘을 웹사이트와 문서에 일관되게 적용할 수 있습니다.",
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "uses": [
+      "website",
+      "presentation",
+      "ui",
+      "education",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled"
+    ],
+    "formats": [
+      "SVG",
+      "ZIP"
+    ],
+    "formatNote": "개별 SVG와 SVG·아이콘 폰트·스프라이트가 포함된 전체 ZIP을 제공합니다. Bootstrap을 사용하지 않는 프로젝트에서도 활용할 수 있습니다.",
+    "bulk": true,
+    "bulkLabel": "전체 SVG·폰트 ZIP",
+    "licenseGroup": "oss",
+    "licenseLabel": "MIT",
+    "licenseSummary": "MIT 라이선스로 무료 이용과 수정, 상업적 활용이 가능합니다. 원본의 저작권·라이선스 고지를 유지해야 합니다.",
+    "creditSummary": "저작권·MIT 라이선스 고지 보존",
+    "commercialSummary": "가능 · MIT 조건 준수",
+    "primaryUrl": "https://icons.getbootstrap.com/",
+    "downloadUrl": "https://icons.getbootstrap.com/usage/",
+    "downloadLabel": "공식 ZIP 다운로드 안내",
+    "licenseUrl": "https://github.com/twbs/icons/blob/main/LICENSE",
+    "sources": [
+      {
+        "label": "공식 SVG·폰트·ZIP 다운로드 안내",
+        "url": "https://icons.getbootstrap.com/usage/"
+      },
+      {
+        "label": "MIT 라이선스 원문",
+        "url": "https://github.com/twbs/icons/blob/main/LICENSE"
+      }
+    ],
+    "keywords": "부트스트랩 bootstrap icons svg solid outline web website homepage ppt presentation 문서 홈페이지 UI 기능 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료"
+  },
+  {
+    "id": "storyset",
+    "name": "Storyset",
+    "subtitle": "편집 가능한 장면형 일러스트",
+    "description": "색상과 배경 요소를 조절해 홈페이지의 설명 장면이나 PPT의 핵심 메시지를 표현하기 좋습니다.",
+    "assetTypes": [
+      "illustration"
+    ],
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "line",
+      "filled",
+      "color"
+    ],
+    "formats": [
+      "SVG",
+      "PNG"
+    ],
+    "formatNote": "정적 일러스트를 SVG·PNG로 다운로드할 수 있습니다. 애니메이션은 별도의 HTML·GIF·MP4 내보내기를 제공합니다.",
+    "bulk": false,
+    "bulkLabel": "개별 장면 다운로드",
+    "licenseGroup": "attribution",
+    "licenseLabel": "무료 이용 시 Storyset 출처",
+    "licenseSummary": "무료 일러스트는 Storyset 출처를 표시하고 허용 범위 내에서 사용할 수 있습니다. 자료를 모아 재배포하거나 재판매하는 것은 제한되며, 에디토리얼(보도·정보전달) 전용 자료는 해당 용도만 허용됩니다.",
+    "creditSummary": "Storyset 출처 표기 필수",
+    "commercialSummary": "가능 · 이용약관 및 개별 자료의 용도 제한 확인",
+    "primaryUrl": "https://storyset.com/",
+    "downloadUrl": "https://storyset.com/",
+    "downloadLabel": "무료 일러스트 편집·받기",
+    "licenseUrl": "https://storyset.com/terms",
+    "sources": [
+      {
+        "label": "공식 형식·출처 안내",
+        "url": "https://storyset.com/faqs"
+      },
+      {
+        "label": "공식 이용약관",
+        "url": "https://storyset.com/terms"
+      }
+    ],
+    "keywords": "스토리셋 storyset freepik 일러스트 비즈니스 교육 사람 svg png 홈페이지 ppt 색상 편집 애니메이션 출처 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "freeScope": "mixed",
+    "sourceDate": "2026-11-24",
+    "recommended": false
+  },
+  {
+    "sourceDate": "2026-11-24",
+    "recommended": false,
+    "id": "svgbackgrounds",
+    "name": "SVG Backgrounds",
+    "subtitle": "홈페이지와 표지용 벡터 배경",
+    "description": "색과 모양을 조정하는 패턴·배경과 무료 그래픽 모음을 제공해 홈페이지나 슬라이드 표지를 꾸미기 좋습니다.",
+    "assetTypes": [
+      "background",
+      "icon",
+      "illustration"
+    ],
+    "freeScope": "mixed",
+    "uses": [
+      "website",
+      "presentation",
+      "content"
+    ],
+    "styles": [
+      "abstract",
+      "color",
+      "line"
+    ],
+    "formats": [
+      "SVG"
+    ],
+    "formatNote": "Free With Attribution으로 표시된 SVG를 선택하세요. 무료 이용은 내보내기 횟수 제한이 있으며 유료 그래픽도 함께 제공됩니다.",
+    "bulk": false,
+    "bulkLabel": "개별 내보내기 · 무료 횟수 제한",
+    "licenseGroup": "attribution",
+    "licenseLabel": "무료 이용 시 출처 필수",
+    "licenseSummary": "무료 그래픽은 출처를 표기하여 개인·상업적 프로젝트의 일부로 사용할 수 있습니다. 그래픽 자체의 재배포·재판매, 경쟁 상품과 사용자가 그래픽을 생성하는 템플릿 등에 사용하는 것은 제한됩니다.",
+    "creditSummary": "SVGBackgrounds.com 출처와 링크 표기",
+    "commercialSummary": "가능 · 출처 표기 및 최종 결과물 사용 조건 준수",
+    "primaryUrl": "https://www.svgbackgrounds.com/",
+    "downloadUrl": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+    "downloadLabel": "무료 배경 찾아보기",
+    "licenseUrl": "https://www.svgbackgrounds.com/license/",
+    "sources": [
+      {
+        "label": "공식 무료 배경 모음",
+        "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/"
+      },
+      {
+        "label": "라이선스 원문",
+        "url": "https://www.svgbackgrounds.com/license/"
+      },
+      {
+        "label": "출처 표시 방법",
+        "url": "https://www.svgbackgrounds.com/attribution/"
+      }
+    ],
+    "keywords": "svg backgrounds pattern background 배경 패턴 표지 홈페이지 ppt 그라데이션 추상 벡터 도형 홈페이지 PPT 프레젠테이션 무료 디자인 자료"
+  },
+  {
+    "id": "openpeeps",
+    "name": "Open Peeps",
+    "subtitle": "조합해서 만드는 인물 캐릭터",
+    "description": "머리·표정·의상·자세를 조합해 페르소나, 팀 소개, 발표자료용 인물을 만들 수 있습니다.",
+    "assetTypes": [
+      "illustration"
+    ],
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "handdrawn",
+      "line"
+    ],
+    "formats": [
+      "SVG",
+      "PNG"
+    ],
+    "formatNote": "완성된 인물은 SVG·PNG로 받고, Download Library에서 조합용 라이브러리를 받을 수 있습니다.",
+    "bulk": true,
+    "bulkLabel": "인물 라이브러리 다운로드",
+    "licenseGroup": "cc0",
+    "licenseLabel": "CC0",
+    "licenseSummary": "CC0 공개 라이브러리로 개인·상업적 사용과 수정·복사·재배포가 가능합니다. 벡터 요소를 조합하거나 색상을 바꿔 사용할 수 있습니다.",
+    "creditSummary": "출처 표기 의무 없음",
+    "commercialSummary": "가능 · CC0 공개 자료",
+    "primaryUrl": "https://www.openpeeps.com/",
+    "downloadUrl": "https://www.openpeeps.com/",
+    "downloadLabel": "인물 라이브러리 받기",
+    "licenseUrl": "https://www.openpeeps.com/",
+    "sources": [
+      {
+        "label": "공식 라이브러리·SVG/PNG·CC0",
+        "url": "https://www.openpeeps.com/"
+      }
+    ],
+    "keywords": "오픈피프 open peeps 인물 사람 손그림 캐릭터 페르소나 팀소개 홈페이지 ppt svg png cc0 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "freeScope": "free",
+    "sourceDate": "2026-11-24",
+    "recommended": false
+  },
+  {
+    "sourceDate": "2026-11-24",
+    "recommended": false,
+    "id": "iconoir",
+    "name": "Iconoir",
+    "subtitle": "간결한 윤곽선 중심의 아이콘",
+    "description": "정돈된 선형 아이콘과 일부 채움형 변형을 제공해 홈페이지와 발표자료를 깔끔하게 구성하기 좋습니다.",
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "uses": [
+      "website",
+      "presentation",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled"
+    ],
+    "formats": [
+      "SVG",
+      "PNG",
+      "ZIP"
+    ],
+    "formatNote": "공식 사이트에서 SVG·PNG를 개별로 받고, GitHub에서 전체 SVG 원본을 받을 수 있습니다.",
+    "bulk": true,
+    "bulkLabel": "전체 SVG · GitHub ZIP",
+    "licenseGroup": "oss",
+    "licenseLabel": "MIT",
+    "licenseSummary": "공개 아이콘 라이브러리는 MIT 라이선스로 개인·상업적 프로젝트에 사용할 수 있습니다. 라이브러리 자체를 재배포할 때 MIT 고지를 유지하세요.",
+    "creditSummary": "프로젝트 내 별도 출처 표기 불필요 · 재배포 시 MIT 고지 유지",
+    "commercialSummary": "가능 · MIT 조건 준수",
+    "primaryUrl": "https://iconoir.com/",
+    "downloadUrl": "https://github.com/iconoir-icons/iconoir",
+    "downloadLabel": "전체 SVG 모음 받기",
+    "licenseUrl": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE",
+    "sources": [
+      {
+        "label": "공식 무료 이용·형식 안내",
+        "url": "https://iconoir.com/docs/faq"
+      },
+      {
+        "label": "공식 전체 SVG 원본",
+        "url": "https://github.com/iconoir-icons/iconoir"
+      }
+    ],
+    "keywords": "아이코노어 아이코누아 iconoir outline solid svg png minimal 미니멀 선형 홈페이지 ppt 발표 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료"
+  },
+  {
+    "id": "wikimedia",
+    "name": "Wikimedia Commons",
+    "subtitle": "사진·도해·공개 예술 자료",
+    "description": "역사, 문화, 과학, 지리 등 설명에 필요한 사진과 도해를 찾기 좋습니다. 파일 설명 페이지에서 제작자와 라이선스를 함께 확인할 수 있습니다.",
+    "assetTypes": [
+      "photo",
+      "illustration",
+      "icon"
+    ],
+    "freeScope": "per-item",
+    "sourceDate": "2026-11-24",
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "photo",
+      "color",
+      "line"
+    ],
+    "formats": [
+      "JPG",
+      "PNG",
+      "SVG",
+      "WEBP"
+    ],
+    "formatNote": "파일 설명 페이지에서 원본 또는 제공되는 크기의 이미지를 내려받습니다. JPG·PNG·SVG·WebP 등 형식은 파일마다 다르며, 일반 Wikipedia 문서의 모든 이미지가 Commons 자료인 것은 아닙니다.",
+    "bulk": false,
+    "bulkLabel": "파일 설명 페이지에서 개별 다운로드",
+    "licenseGroup": "mixed",
+    "licenseLabel": "파일별 CC BY·BY-SA·공개저작물",
+    "licenseSummary": "개별 파일의 라이선스에 따라 재사용할 수 있습니다. CC BY는 저작자·라이선스 표기, CC BY-SA는 이에 더해 수정물의 동일조건 공유가 필요하며 퍼블릭 도메인 자료는 해당 상태를 확인하세요.",
+    "creditSummary": "파일별 저작자·출처·라이선스 조건 확인",
+    "commercialSummary": "개별 자유 라이선스 조건 준수 · 별도 권리 확인",
+    "primaryUrl": "https://commons.wikimedia.org/",
+    "downloadUrl": "https://commons.wikimedia.org/wiki/Main_Page",
+    "downloadLabel": "사진·도해 찾아보기",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia",
+    "sources": [
+      {
+        "label": "공식 외부 재사용 안내",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia"
+      },
+      {
+        "label": "라이선스별 재사용 조건",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia/licenses/en"
+      },
+      {
+        "label": "공식 지원 파일 형식",
+        "url": "https://commons.wikimedia.org/wiki/Commons:File_types"
+      }
+    ],
+    "keywords": "위키미디어 커먼즈 wikimedia commons photo diagram map art history science education 사진 도해 지도 일러스트 아이콘 역사 과학 교육 PPT 보고서 연구 CC BY SA 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false
+  },
+  {
+    "sourceDate": "2026-11-24",
+    "recommended": false,
+    "id": "fontawesome",
+    "name": "Font Awesome Free",
+    "subtitle": "웹에서 익숙한 기능·브랜드 아이콘",
+    "description": "웹 메뉴와 기능 설명에 널리 쓰이는 아이콘을 무료 세트로 제공하며 발표자료에도 활용할 수 있습니다.",
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "mixed",
+    "uses": [
+      "website",
+      "presentation",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled"
+    ],
+    "formats": [
+      "SVG",
+      "ZIP"
+    ],
+    "formatNote": "Free 다운로드에 SVG와 웹·데스크톱용 폰트가 포함됩니다. Pro 아이콘은 별도 유료 상품이므로 Free 표시를 확인하세요.",
+    "bulk": true,
+    "bulkLabel": "Free 아이콘 패키지 ZIP",
+    "licenseGroup": "attribution",
+    "licenseLabel": "아이콘 CC BY 4.0",
+    "licenseSummary": "무료 SVG·JS 아이콘은 CC BY 4.0, 폰트는 SIL OFL 1.1, 기타 코드는 MIT가 적용됩니다. 다운로드 파일의 출처 고지를 보존하고 사용하는 형식의 조건을 따르세요.",
+    "creditSummary": "출처 고지 필요 · 파일에 포함된 고지 보존",
+    "commercialSummary": "가능 · 파일 유형별 라이선스 및 브랜드 권리 확인",
+    "primaryUrl": "https://fontawesome.com/",
+    "downloadUrl": "https://fontawesome.com/download",
+    "downloadLabel": "Free 패키지 다운로드",
+    "licenseUrl": "https://github.com/FortAwesome/Font-Awesome#license",
+    "sources": [
+      {
+        "label": "공식 Free·Pro 다운로드",
+        "url": "https://fontawesome.com/download"
+      },
+      {
+        "label": "공식 파일 유형별 라이선스",
+        "url": "https://github.com/FortAwesome/Font-Awesome#license"
+      }
+    ],
+    "keywords": "폰트어썸 font awesome free svg icon font regular solid brand 브랜드 홈페이지 웹 메뉴 ppt 발표자료 홈페이지 PPT 프레젠테이션 무료 디자인 자료"
+  },
+  {
+    "id": "openverse",
+    "name": "Openverse",
+    "subtitle": "공개 라이선스 이미지 통합 검색",
+    "description": "여러 공개 저장소의 사진과 그림을 한곳에서 검색할 수 있습니다. 학술·교육자료나 주제가 뚜렷한 발표 이미지의 원출처를 찾기에 좋습니다.",
+    "assetTypes": [
+      "photo",
+      "illustration",
+      "background"
+    ],
+    "freeScope": "per-item",
+    "sourceDate": "2026-11-24",
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education"
+    ],
+    "styles": [
+      "photo",
+      "color"
+    ],
+    "formats": [
+      "이미지별"
+    ],
+    "formatNote": "검색 결과에서 원본 제공처로 이동해 다운로드합니다. 파일 형식과 크기는 원본 저장소와 개별 자료에 따라 다르며, Openverse는 파일별 라이선스의 정확성을 보증하지 않습니다.",
+    "bulk": false,
+    "bulkLabel": "원출처에서 개별 다운로드",
+    "licenseGroup": "mixed",
+    "licenseLabel": "개별 CC·퍼블릭 도메인",
+    "licenseSummary": "각 자료의 Creative Commons 또는 퍼블릭 도메인 조건을 따라야 합니다. 상업적 이용에는 NC 제한, 수정에는 ND 제한, 재배포에는 BY·SA 조건 등을 확인하고 원출처에서 라이선스를 다시 확인하세요.",
+    "creditSummary": "CC BY 등은 저작자·라이선스 표기 필요",
+    "commercialSummary": "개별 라이선스 확인 · NC 자료 제외",
+    "primaryUrl": "https://openverse.org/",
+    "downloadUrl": "https://openverse.org/",
+    "downloadLabel": "공개 이미지 검색하기",
+    "licenseUrl": "https://docs.openverse.org/terms_of_service.html",
+    "sources": [
+      {
+        "label": "공식 서비스·원출처 확인 안내",
+        "url": "https://openverse.org/about"
+      },
+      {
+        "label": "공식 이용약관",
+        "url": "https://docs.openverse.org/terms_of_service.html"
+      },
+      {
+        "label": "CC별 출처 표기 안내",
+        "url": "https://wordpress.com/support/finding-free-images-and-other-media/openverse/"
+      }
+    ],
+    "keywords": "오픈버스 오픈벌스 openverse creative commons cc public domain photo illustration education research 사진 이미지 공개저작물 공공 교육 연구 미술 역사 PPT CC0 CC BY 라이선스 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false
+  },
+  {
+    "id": "freepik",
+    "name": "Magnific (구 Freepik)",
+    "subtitle": "사진·벡터·일러스트 종합 자료",
+    "description": "기존 Freepik의 사진, 벡터, 일러스트와 디자인 자료를 폭넓게 찾을 수 있습니다. 무료 표시된 자료를 골라 홈페이지와 PPT에 활용하세요.",
+    "assetTypes": [
+      "photo",
+      "illustration",
+      "icon",
+      "background",
+      "3d"
+    ],
+    "freeScope": "mixed",
+    "sourceDate": "2026-11-24",
+    "uses": [
+      "website",
+      "presentation",
+      "content",
+      "education",
+      "ui"
+    ],
+    "styles": [
+      "photo",
+      "line",
+      "filled",
+      "color",
+      "3d",
+      "abstract"
+    ],
+    "formats": [
+      "JPG",
+      "PNG",
+      "SVG",
+      "PDF",
+      "ZIP"
+    ],
+    "formatNote": "무료 표시 자료에 한해 JPG·PNG·SVG·PDF 등 해당 자료가 제공하는 형식으로 다운로드합니다. 가입이 필요하고 무료 계정에는 일일 제한이 있습니다. EPS·AI·PSD는 현재 공식 안내상 유료 형식입니다.",
+    "bulk": false,
+    "bulkLabel": "자료별 다운로드 · 무료 계정 제한",
+    "licenseGroup": "attribution",
+    "licenseLabel": "무료 라이선스 · 출처 필수",
+    "licenseSummary": "무료 자료를 개인·상업적 프로젝트에 사용할 수 있지만 명확한 출처 표기가 필요합니다. 원본 파일의 재판매·다운로드용 재배포·상표 사용은 제한되며 자료별 라이선스를 보관하세요.",
+    "creditSummary": "무료 이용 시 Designed by Magnific와 출처 링크 표기",
+    "commercialSummary": "허용 범위 내 가능 · 출처 표기 및 라이선스 준수",
+    "primaryUrl": "https://www.magnific.com/images",
+    "downloadUrl": "https://www.magnific.com/images",
+    "downloadLabel": "무료 이미지 찾아보기",
+    "licenseUrl": "https://www.magnific.com/ai/docs/licenses-attribution",
+    "sources": [
+      {
+        "label": "Freepik 명칭 변경·공식 이미지 자료",
+        "url": "https://www.magnific.com/images"
+      },
+      {
+        "label": "공식 라이선스·출처 표기",
+        "url": "https://www.magnific.com/ai/docs/licenses-attribution"
+      },
+      {
+        "label": "가입·무료 다운로드 조건",
+        "url": "https://www.magnific.com/ai/docs/downloading-content"
+      },
+      {
+        "label": "무료·유료 파일 형식",
+        "url": "https://www.magnific.com/ai/docs/file-formats"
+      }
+    ],
+    "keywords": "프리픽 프리피크 freepik magnific 매그니픽 stock photo vector illustration icon psd background template 3d 이미지 사진 일러스트 벡터 아이콘 배경 홈페이지 PPT 템플릿 출처 무료 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false
+  },
+  {
+    "id": "azure",
+    "name": "Microsoft Azure Architecture Icons",
+    "subtitle": "Azure 클라우드·보안 아키텍처",
+    "description": "Azure 서비스와 네트워크·보안 구성요소의 관계를 설명하는 공식 아키텍처 아이콘 모음입니다.",
+    "uses": [
+      "presentation",
+      "education",
+      "network",
+      "cloud"
+    ],
+    "styles": [
+      "color"
+    ],
+    "formats": [
+      "SVG",
+      "ZIP"
+    ],
+    "formatNote": "Download SVG icons에서 SVG 전체 ZIP을 제공합니다. 전용 Visio 스텐실은 없지만 SVG를 Visio 등 구성도 도구에 삽입할 수 있습니다.",
+    "bulk": true,
+    "bulkLabel": "전체 SVG ZIP",
+    "licenseGroup": "vendor",
+    "licenseLabel": "Microsoft 아이콘 약관",
+    "licenseSummary": "아키텍처 구성도·교육자료·문서에 사용하는 것을 허용합니다. 자르기·뒤집기·회전·형태 변형과 Microsoft 아이콘을 자신의 제품·서비스 아이콘으로 사용하는 것은 금지합니다.",
+    "creditSummary": "제품명 병기 권장 · 공식 아이콘 약관 적용",
+    "commercialSummary": "허용된 구성도·교육·문서 용도에 한정",
+    "primaryUrl": "https://learn.microsoft.com/en-us/azure/architecture/icons/",
+    "downloadUrl": "https://learn.microsoft.com/en-us/azure/architecture/icons/",
+    "downloadLabel": "공식 SVG 모음 받기",
+    "licenseUrl": "https://learn.microsoft.com/en-us/azure/architecture/icons/",
+    "sources": [
+      {
+        "label": "공식 SVG 다운로드·아이콘 약관",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/icons/"
+      }
+    ],
+    "keywords": "애저 아주르 마이크로소프트 microsoft azure cloud architecture security network identity key vault firewall 클라우드 보안 인증 키볼트 방화벽 구성도 아키텍처 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24"
+  },
+  {
+    "id": "aws",
+    "name": "AWS Architecture Icons",
+    "subtitle": "AWS 설계·발표자료용 공식 세트",
+    "description": "AWS 서비스와 리소스를 연결하는 클라우드 아키텍처와 보안 구성도를 만들기 위한 공식 자료입니다.",
+    "uses": [
+      "presentation",
+      "education",
+      "network",
+      "cloud"
+    ],
+    "styles": [
+      "color"
+    ],
+    "formats": [
+      "PPTX",
+      "ZIP"
+    ],
+    "formatNote": "Microsoft PPTx toolkits와 Icon package ZIP을 제공합니다. 필요한 이미지 파일 형식은 다운로드 패키지에서 확인하세요.",
+    "bulk": true,
+    "bulkLabel": "PPTX 도구 모음·아이콘 ZIP",
+    "licenseGroup": "vendor",
+    "licenseLabel": "AWS 공식 사용 안내",
+    "licenseSummary": "고객·파트너의 아키텍처 구성도 제작을 위한 공식 툴킷입니다. 백서·프레젠테이션·데이터시트·포스터에도 넣을 수 있으며 모든 상업적 재배포가 허용되는 오픈소스 라이선스는 아닙니다.",
+    "creditSummary": "공식 툴킷의 사용 안내 확인",
+    "commercialSummary": "아키텍처·백서·발표자료 등 명시된 용도",
+    "primaryUrl": "https://aws.amazon.com/architecture/icons/",
+    "downloadUrl": "https://aws.amazon.com/architecture/icons/",
+    "downloadLabel": "PPTX·아이콘 모음 받기",
+    "licenseUrl": "https://aws.amazon.com/architecture/icons/",
+    "sources": [
+      {
+        "label": "공식 툴킷·사용 범위 안내",
+        "url": "https://aws.amazon.com/architecture/icons/"
+      }
+    ],
+    "keywords": "아마존 amazon aws architecture cloud security network iam vpc ec2 s3 powerpoint pptx 클라우드 보안 네트워크 구성도 아키텍처 발표자료 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "free",
+    "sourceDate": "2026-11-24"
+  },
+  {
+    "id": "flaticon",
+    "name": "Flaticon",
+    "subtitle": "컬러·테마별 아이콘 탐색",
+    "description": "다양한 주제와 스타일의 아이콘을 찾아 교육 콘텐츠나 강조용 그래픽에 활용하기 좋습니다.",
+    "uses": [
+      "website",
+      "presentation",
+      "education",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled",
+      "color"
+    ],
+    "formats": [
+      "PNG"
+    ],
+    "formatNote": "무료 이용은 PNG 중심입니다. SVG·EPS 등 편집 형식과 출처 표기 면제는 유료 혜택으로 안내되며 무료 계정에는 다운로드·컬렉션 제한이 있습니다.",
+    "bulk": false,
+    "bulkLabel": "개별·컬렉션 · 계정 조건 확인",
+    "licenseGroup": "attribution",
+    "licenseLabel": "무료 라이선스 · 출처 필수",
+    "licenseSummary": "무료 아이콘은 최종 결과물에 제작자와 Flaticon 출처를 표시해야 합니다. 허용된 개인·상업적 프로젝트에 쓸 수 있지만 원본·수정 아이콘의 재판매와 다운로드용 재배포는 제한됩니다.",
+    "creditSummary": "제작자·Flaticon 출처 필수",
+    "commercialSummary": "허용 범위 내 가능 · 출처 표기 및 약관 준수",
+    "primaryUrl": "https://www.flaticon.com/",
+    "downloadUrl": "https://www.flaticon.com/",
+    "downloadLabel": "무료 PNG 찾아보기",
+    "licenseUrl": "https://www.flaticon.com/license/license.pdf",
+    "sources": [
+      {
+        "label": "공식 무료·유료 형식 비교",
+        "url": "https://www.flaticon.com/pricing"
+      },
+      {
+        "label": "무료 라이선스·출처 표시 안내",
+        "url": "https://www.flaticon.com/license/license.pdf"
+      },
+      {
+        "label": "전체 이용약관",
+        "url": "https://www.flaticon.com/terms-of-use"
+      }
+    ],
+    "keywords": "플랫아이콘 flaticon flat color icon sticker security privacy 컬러 아이콘 스티커 보안 개인정보 교육 콘텐츠 png 출처 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "mixed",
+    "sourceDate": "2026-11-24"
+  },
+  {
+    "id": "icons8",
+    "name": "Icons8",
+    "subtitle": "여러 디자인 스타일의 아이콘",
+    "description": "다양한 디자인 계열의 아이콘을 비교하면서 웹 화면과 콘텐츠용 이미지를 찾을 수 있습니다.",
+    "uses": [
+      "website",
+      "presentation",
+      "education",
+      "ui",
+      "content"
+    ],
+    "styles": [
+      "line",
+      "filled",
+      "color"
+    ],
+    "formats": [
+      "PNG"
+    ],
+    "formatNote": "일반 무료 다운로드는 최대 100×100px PNG입니다. Popular·Characters 등 일부 카테고리는 SVG와 더 큰 크기도 무료이며 항목별 조건을 확인해야 합니다.",
+    "bulk": false,
+    "bulkLabel": "개별 다운로드 · 무료 범위 확인",
+    "licenseGroup": "attribution",
+    "licenseLabel": "무료 조건 · 출처 링크 필수",
+    "licenseSummary": "무료 아이콘을 이용할 때 Icons8로 연결되는 출처 링크가 필요합니다. 무료 SVG는 일부 카테고리에 한정되며 브랜드·캐릭터의 상업적 사용은 해당 권리자의 지침도 확인해야 합니다.",
+    "creditSummary": "Icons8 출처 링크 필수",
+    "commercialSummary": "무료 이용 조건 적용 · 브랜드·캐릭터는 별도 확인",
+    "primaryUrl": "https://icons8.com/icons",
+    "downloadUrl": "https://icons8.com/icons",
+    "downloadLabel": "무료 아이콘 찾아보기",
+    "licenseUrl": "https://intercom.help/icons8-7fb7577e8170/en/articles/4725518-can-i-download-icons-for-free",
+    "sources": [
+      {
+        "label": "공식 무료 PNG·크기·출처 조건",
+        "url": "https://intercom.help/icons8-7fb7577e8170/en/articles/4725518-can-i-download-icons-for-free"
+      },
+      {
+        "label": "공식 무료 SVG 대상 안내",
+        "url": "https://intercom.help/icons8-7fb7577e8170/en/articles/4725631-do-you-have-free-icons-in-svg"
+      }
+    ],
+    "keywords": "아이콘스8 icons8 color icon security privacy interface 컬러 라인 채움 보안 개인정보 웹 앱 콘텐츠 png 출처 무료 svg 조건부 홈페이지 PPT 프레젠테이션 아이콘 홈페이지 PPT 프레젠테이션 무료 디자인 자료",
+    "recommended": false,
+    "assetTypes": [
+      "icon"
+    ],
+    "freeScope": "mixed",
+    "sourceDate": "2026-11-24"
+  }
+]
