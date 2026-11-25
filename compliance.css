@@ -1,6 +1,18 @@
-.portal-nav{display:flex;flex-wrap:wrap;gap:.6rem;margin:1rem 0}
+.topbar{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr)}
+.topbar .brand{justify-self:start}
+.topbar .privacy{justify-self:end}
+.portal-nav{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:.6rem}
+.portal-nav a{white-space:nowrap}
+.design-nav{height:auto;min-height:48px;justify-content:center;flex-wrap:wrap;margin:0}
+.design-nav .nav-item{height:auto;min-height:44px}
 .portal-nav a,.catalog-menu button{padding:.5rem .8rem;border:1px solid #bac7d8;border-radius:.55rem;font:inherit}
 .portal-nav [aria-current],.catalog-menu [aria-pressed=true]{background:#244c91;color:white;border-color:#244c91}
+@media(max-width:740px){
+  .topbar{grid-template-columns:minmax(0,1fr);gap:8px;padding-top:10px;padding-bottom:8px}
+  .portal-nav{gap:.35rem}
+  .portal-nav a{font-size:.8125rem;padding:.38rem .55rem}
+  .design-nav{gap:4px 16px}
+}
 .catalog{padding-bottom:3rem}
 .catalog h1{font-size:clamp(1.8rem,4vw,3rem);margin:1.5rem 0 .5rem}
 .catalog-menu{display:flex;flex-wrap:wrap;gap:.55rem;margin:1.5rem 0}
