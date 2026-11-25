@@ -1,6 +1,11 @@
 .topbar{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr)}
 .topbar .brand{justify-self:start}
 .topbar .privacy{justify-self:end}
+.design-header{position:sticky;top:0;z-index:20;background:var(--white);border-bottom:1px solid var(--line)}
+.design-header .topbar{position:static}
+html:has(.design-header){scroll-padding-top:calc(var(--design-header-height,148px) + 12px)}
+.design-header ~ main :is(.resource-main,.guide-section){scroll-margin-top:0}
+.design-header ~ main .sidebar{top:calc(var(--design-header-height,148px) + 12px)}
 .portal-nav{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:.6rem}
 .portal-nav a{white-space:nowrap}
 .design-nav{height:auto;min-height:48px;justify-content:center;flex-wrap:wrap;margin:0}

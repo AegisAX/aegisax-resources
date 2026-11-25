@@ -2,6 +2,14 @@
   'use strict';
   const $ = (s, root = document) => root.querySelector(s);
   const $$ = (s, root = document) => [...root.querySelectorAll(s)];
+  const header = $('.design-header');
+  if (header) {
+    const syncHeaderHeight = () => {
+      document.documentElement.style.setProperty('--design-header-height', header.offsetHeight + 'px');
+    };
+    syncHeaderHeight();
+    new ResizeObserver(syncHeaderHeight).observe(header);
+  }
   const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const icon = (name, cls = 'icon') => `<svg class="${cls}" aria-hidden="true"><use href="#i-${name}"/></svg>`;
   const useLabels = {all:'모든 용도',website:'홈페이지 제작',presentation:'PPT·프레젠테이션',education:'교육·보고서',content:'SNS·콘텐츠',ui:'웹·앱 UI',network:'네트워크 구성도',cloud:'클라우드 설계'};
