@@ -31,7 +31,7 @@ RULES = {
     ],
     "privacy": [
         "개인정보의 안전성 확보조치 기준", "표준 개인정보 보호지침",
-        "개인정보 영향평가에 관한 고시",
+        "개인정보 영향평가에 관한 고시", "개인정보 국외 이전 운영 등에 관한 규정",
     ],
     "finance": ["전자금융감독규정", "전자금융감독규정시행세칙", "신용정보업감독규정"],
 }
@@ -46,7 +46,10 @@ BOARDS = {
     "kisa-guide": (KISA + "/2060207", "network", "한국인터넷진흥원", "가이드", "page"),
     "kisa-manual": (KISA + "/2060307", "network", "한국인터넷진흥원", "안내서", "page"),
     "location-board": (LBSC, "location", "위치정보지원센터", "법령·고시", "pageIndex"),
+    "location-forms": (LBSC.replace("1000001", "1000004"), "location", "위치정보지원센터", "서식·안내", "pageIndex"),
     "spam": (SPAM, "network", "한국인터넷진흥원 불법스팸대응센터", "안내서·자료", "currPage"),
+    "kisa-spam": (KISA + "/401?searchDiv=10&searchWord=" + quote("불법스팸"),
+                  "network", "한국인터넷진흥원", "안내서·자료", "page"),
     "fsc": (FSC, "finance", "금융위원회", "고시·공고", "curPage"),
     "fsec": (FSEC, "finance", "금융보안원", "가이드·안내서", None),
 }
@@ -136,15 +139,17 @@ def board_link(key, base, href, identifier):
     query = parse_qs(parts.query)
     if key == "spam" and href == "javascript:" and identifier.isdecimal():
         return "https://spam.kisa.or.kr/spam/na/ntt/selectNttInfo.do?bbsId=1002&mi=1020&nttSn=" + identifier
-    if key == "location-board":
+    if key.startswith("location-"):
         match = re.fullmatch(r'''javascript:selectBoardView\('(\d+)',\s*'(NTT_\d+)'\);?''', href)
         if match:
-            return f"{LBSC}&cmd=view&selectbbsId={match[1]}&selectId={match[2]}"
+            return f"{base}&cmd=view&selectbbsId={match[1]}&selectId={match[2]}"
         return None
     if parts.scheme != "https" or parts.hostname != urlsplit(base).hostname:
         return None
     if key == "pipc" and "selectBoardArticle.do" in parts.path and query.get("bbsId") == ["BS217"] and "nttId" in query:
         return url
+    if key == "kisa-spam" and parts.path == "/401/form" and "postSeq" in query:
+        return KISA + "/401/form?" + urlencode({"postSeq": query["postSeq"][0]})
     if key.startswith("kisa-") and re.fullmatch(r"/2060[23]\d+/form", parts.path) and "postSeq" in query:
         return KISA + parts.path + "?" + urlencode({"postSeq": query["postSeq"][0]})
     if key == "fsc" and re.fullmatch(r"/po040200/\d+", parts.path):
@@ -183,6 +188,8 @@ def board_documents(key):
         fresh = False
         for url, title, date in items:
             if not url or not title or url in result:
+                continue
+            if key == "kisa-spam" and "스팸" not in title.replace(" ", ""):
                 continue
             fresh = True
             item_topic = topic
@@ -247,6 +254,8 @@ def main():
     sources = {}
     documents = [
         document("금융보안 레그테크 포털", "https://regtech.fsec.or.kr/main/main", "finance", "금융보안원", "공식 자료실"),
+        document("개인위치정보사업 등록·변경 안내", "https://www.lbsc.kr/front/content/contentViewer.do?contentId=CONTENT_0000041", "location", "위치정보지원센터", "안내"),
+        document("위치기반서비스사업 신고 안내", "https://www.lbsc.kr/front/content/contentViewer.do?contentId=CONTENT_0000081", "location", "위치정보지원센터", "안내"),
     ]
     documents += [document(publisher + " " + kind + " 목록", url, topic, publisher, "공식 자료실")
                   for url, topic, publisher, kind, _ in BOARDS.values()]
