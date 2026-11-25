@@ -178,6 +178,12 @@ def board_documents(key):
             html = fetch(url)
             items = []
             dates = {}
+            if key == "fsc":
+                for entry in re.findall(r"<li\b[^>]*>.*?</li>", html, re.S | re.I):
+                    day = re.search(r'<div class="day">\s*(\d{4}-\d{2}-\d{2})\s*</div>', entry)
+                    if day:
+                        for href, _, identifier in Page(entry).links:
+                            dates[(href, identifier)] = day[1]
             for row in re.findall(r"<tr\b[^>]*>.*?</tr>", html, re.S | re.I):
                 date = re.search(r"<td\b[^>]*>\s*(\d{4}[-.]\d{2}[-.]\d{2})\s*</td>", row, re.I)
                 if date:

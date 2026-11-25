@@ -15,6 +15,12 @@ const notice = document.querySelector("#catalogNotice");
 const list = document.querySelector("#catalogList");
 let catalog;
 
+function documentDate(item) {
+  // Law detail pages put the effective date before the promulgation date.
+  const match = (item.date || "").match(/^(?:\[시행\s+)?(\d{4})[-.]\s*(\d{1,2})[-.]\s*(\d{1,2})\b/);
+  return match ? Number(match[1]) * 10000 + Number(match[2]) * 100 + Number(match[3]) : 0;
+}
+
 function render() {
   const requested = location.hash.slice(1);
   const topic = Object.hasOwn(topics, requested) ? requested : "all";
@@ -33,6 +39,7 @@ function render() {
     (!type.value || type.value === item.kind) &&
     `${item.title} ${item.publisher}`.toLowerCase().includes(term)
   );
+  if (!licensing) matches.sort((a, b) => documentDate(b) - documentDate(a));
   const failures = licensing
     ? matches.filter((item) => item.warning).length
     : catalog.sources.filter((source) => source.error).length;
@@ -40,7 +47,7 @@ function render() {
   status.textContent = `${matches.length}건 · 자동 확인 시도 ${catalog.checked}${failures ? ` · ${failureLabel} ${failures}건` : ""}`;
   notice.textContent = licensing
     ? "공식 이용 조건 페이지의 변경을 감지합니다. 변경 감지는 이용 허가 변경을 확정하지 않으므로, 원문과 개별 자료 조건을 확인하세요."
-    : "법령의 시행일과 문서의 개정 여부는 원문에서 확인하세요. 개정 이력과 과거 안내서는 함께 표시될 수 있습니다.";
+    : "법령 원문은 시행일, 기관 게시물은 게시일 기준 최신순입니다. 날짜가 없는 자료는 마지막에 표시합니다.";
   list.replaceChildren(...matches.map((item) => {
     const row = document.createElement("li");
     const link = document.createElement("a");
