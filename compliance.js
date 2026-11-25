@@ -6,6 +6,13 @@ const topics = {
   finance: "전자금융·금융보안",
 };
 
+const documentKindOrder = [
+  "법률", "시행령", "시행규칙",
+  "고시·행정규칙", "법령·고시", "고시·공고",
+  "현행 안내서", "가이드", "가이드·안내서", "안내서", "안내서·자료",
+  "안내", "서식·안내", "과거 안내서", "공식 자료실",
+];
+
 const menu = document.querySelector("#catalogMenu");
 const licensing = !menu;
 const query = document.querySelector("#catalogQuery");
@@ -30,7 +37,12 @@ function render() {
   const rows = licensing ? catalog.licenses : catalog.documents.filter(
     (item) => topic === "all" || item.topic === topic,
   );
-  const kinds = [...new Set(rows.map((item) => item.kind))];
+  const availableKinds = new Set(rows.map((item) => item.kind));
+  const kinds = licensing ? [...availableKinds] : [
+    ...documentKindOrder.filter((kind) => availableKinds.has(kind)),
+    ...[...availableKinds].filter((kind) => !documentKindOrder.includes(kind))
+      .sort((a, b) => a.localeCompare(b, "ko")),
+  ];
   const selected = type.value;
   type.replaceChildren(new Option("전체", ""), ...kinds.map((kind) => new Option(kind)));
   if (kinds.includes(selected)) type.value = selected;
