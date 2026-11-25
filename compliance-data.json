@@ -115,7 +115,8 @@
     },
     {
       "id": "spam",
-      "checked": "2026-11-25"
+      "checked": "2026-11-25",
+      "error": true
     },
     {
       "id": "fsc",
@@ -3296,8 +3297,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2026-11-16",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "25년 하반기 스팸 유통현황 발표",
@@ -3306,8 +3308,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2026-05-14",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "전송자격인증제와 등록요건 개선 설명회 자료",
@@ -3316,8 +3319,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2026-04-29",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "불법스팸 방지를 위한 정보통신망법 안내서(제7차 개정본)",
@@ -3326,8 +3330,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2026-03-04",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "25년 상반기 스팸 유통현황 발표",
@@ -3336,8 +3341,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2025-11-07",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2024년 하반기 스팸 유통현황 및 수신량 조사 결과 발표",
@@ -3346,8 +3352,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2025-03-28",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2024년 통계정보보고서 스팸수신량",
@@ -3356,8 +3363,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2025-03-05",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "24년 상반기 스팸 유통현황 발표",
@@ -3366,8 +3374,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2024-12-09",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2024년 하반기 불법스팸 전송방지를 위한 설명회 자료",
@@ -3376,8 +3385,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2024-11-28",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2024년 상반기 불법스팸 전송 방지를 위한 정보통신망법 설명회 발표자료",
@@ -3386,8 +3396,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2024-06-12",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "23년 하반기 스팸 유통현황 발표",
@@ -3396,8 +3407,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2024-04-17",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2023년 하반기 불법스팸 전송 방지를 위한 정보통신망법 설명회 발표자료",
@@ -3406,8 +3418,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2023-12-07",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "23년 상반기 스팸 유통현황 발표",
@@ -3416,8 +3429,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2023-10-06",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2023년 상반기 불법스팸 전송 방지를 위한 정보통신망법 설명회 발표자료",
@@ -3426,8 +3440,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2023-06-27",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "22년 하반기 스팸 유통현황 발표",
@@ -3436,8 +3451,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2023-04-04",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2022년 하반기 불법스팸 전송 방지를 위한 정보통신망법 설명회 발표자료",
@@ -3446,8 +3462,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2022-12-12",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "이용자대상 불법스팸 피해예방 인식제고 홍보영상",
@@ -3456,8 +3473,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2022-12-12",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "사업자 대상 불법스팸 전송방지 인식제고 교육 영상",
@@ -3466,8 +3484,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2022-11-03",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "22년 상반기 스팸 유통현황 발표",
@@ -3476,8 +3495,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2022-10-04",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2022년도 상반기 불법스팸 전송 방지를 위한 정보통신망법 설명회 자료",
@@ -3486,8 +3506,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2022-06-23",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "21년 하반기 스팸 유통현황 발표",
@@ -3496,8 +3517,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2022-04-27",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "21년 상반기 스팸 유통현황 발표",
@@ -3506,8 +3528,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2022-03-03",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "20년 하반기 스팸 유통현황 발표",
@@ -3516,8 +3539,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2021-03-30",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "20년 상반기 스팸 유통현황 발표",
@@ -3526,8 +3550,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2020-09-29",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "19년 하반기 스팸 유통현황 발표",
@@ -3536,8 +3561,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2020-03-25",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "19년 상반기 스팸 유통현황 발표",
@@ -3546,8 +3572,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2019-09-26",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "18년 하반기 스팸 유통현황 발표",
@@ -3556,8 +3583,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2019-04-03",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "18년 상반기 스팸 유통현황 발표",
@@ -3566,8 +3594,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2018-09-20",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "17년 하반기 휴대전화·이메일 스팸 유통현황 발표",
@@ -3576,8 +3605,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2018-05-09",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "17년 상반기 휴대전화·이메일 스팸 유통현황 발표",
@@ -3586,8 +3616,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2017-10-25",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "`16년 하반기 휴대전화·이메일 스팸 유통현황 발표",
@@ -3596,8 +3627,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2017-03-28",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "불법스팸 감축을 위한 2017년 정보통신서비스제공자 합동점검 설명회 자료",
@@ -3606,8 +3638,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2017-02-21",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "`16년 상반기 휴대전화·이메일 스팸 유통현황 발표",
@@ -3616,8 +3649,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2016-10-17",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "15년 하반기 휴대전화·이메일 스팸 유통현황 발표",
@@ -3626,8 +3660,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2016-04-04",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "스팸 관련 정보통신망법 Q&A 자료 게시",
@@ -3636,8 +3671,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2016-01-05",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "‘15년 상반기 휴대전화·이메일 스팸 유통현황 발표",
@@ -3646,8 +3682,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2015-10-07",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "정보통신망법 제50조의4 필요한 조치에 대한 안내서",
@@ -3656,8 +3693,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2015-09-01",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "두낫콜(전화권유판매 수신거부의사 등록시스템) 소개",
@@ -3666,8 +3704,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2015-08-07",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "정부 3.0 빅데이터를 활용한 실시간 스팸차단 홍보 영상",
@@ -3676,8 +3715,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2015-07-31",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2014년 하반기 스팸 유통현황 측정결과",
@@ -3686,8 +3726,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2015-03-26",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "스팸 관련 개정 정보통신망법 Q&A 자료 게시",
@@ -3696,8 +3737,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2015-02-06",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "스팸 관련 정보통신망법 홍보 웹툰",
@@ -3706,8 +3748,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2014-12-25",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2014년 상반기 스팸 유통현황 측정결과",
@@ -3716,8 +3759,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2014-12-08",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2013년 하반기 스팸 유통현황 측정결과",
@@ -3726,8 +3770,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2014-12-08",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2013년 상반기 스팸 유통현황 측정결과",
@@ -3736,8 +3781,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2013-11-28",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2012년 하반기 스팸 유통현황 측정결과",
@@ -3746,8 +3792,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2013-11-28",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "통신사별 지능형 스팸차단 부가서비스 가입 안내",
@@ -3756,8 +3803,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2011-11-17",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "`11년도 스팸방지 종합대책",
@@ -3766,8 +3814,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2011-01-31",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "과태료 부과기준(정보통신망이용촉진및정보보호등에관한법률시행령 별표9)",
@@ -3776,8 +3825,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2010-12-08",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "정보통신망이용촉진및정보보호등에관한법률 시행령",
@@ -3786,8 +3836,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2010-12-08",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "정보통신망이용촉진및정보보호등에관한법률",
@@ -3796,8 +3847,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2010-12-08",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "`09년도 스팸방지 종합대책",
@@ -3806,8 +3858,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2010-04-22",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "불법스팸신고를 위한 메일저장방법(eml, msg 형식)",
@@ -3816,8 +3869,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2008-05-21",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "OECD Anti-Spam Toolkit 권장정책 및 대응방안",
@@ -3826,8 +3880,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2007-03-26",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "06년 스팸동향 및 07년 예측",
@@ -3836,8 +3891,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2007-01-17",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2007 스팸차단솔루션 활용가이드",
@@ -3846,8 +3902,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2007-01-11",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "오픈프락시(8080/4769포트 이용) 감염확인 및 제거방법",
@@ -3856,8 +3913,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-08-22",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "게시판 스팸 대응요령",
@@ -3866,8 +3924,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-08-01",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "MS Exchange Server 원격 보안 취약점 패치 권고",
@@ -3876,8 +3935,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-05-10",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2006 스팸방지 가이드라인 Q&A",
@@ -3886,8 +3946,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-04-24",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "스팸방지 가이드라인 입니다.",
@@ -3896,8 +3957,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-04-19",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "센드메일 패치 기술문서입니다.",
@@ -3906,8 +3968,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-03-28",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "센드메일 업그레이드 기술문서입니다.",
@@ -3916,8 +3979,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-03-28",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "개정 정보통신망법에 따른 스팸방지 가이드라인(안) 설명회자료집",
@@ -3926,8 +3990,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-03-08",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2006 스팸차단솔루션 활용가이드",
@@ -3936,8 +4001,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-01-26",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2005년 스팸현황 및 06년 예측자료입니다.",
@@ -3946,8 +4012,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2006-01-06",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "SPF 발표자료",
@@ -3956,8 +4023,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2005-11-29",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "캐나다 스팸 리포트",
@@ -3966,8 +4034,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2005-11-28",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "실시간 스팸차단리스트(RBL) 발표자료",
@@ -3976,8 +4045,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2005-11-25",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "SPF 설치 및 운영지침서",
@@ -3986,8 +4056,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2005-10-07",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "SPF 기술문서",
@@ -3996,8 +4067,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2005-10-07",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "전화스팸방지 가이드라인",
@@ -4006,8 +4078,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2005-05-30",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "정보통신망법 시행령",
@@ -4016,8 +4089,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2005-03-30",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "정보통신망법",
@@ -4026,8 +4100,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2004-12-30",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "스팸차단 Best Practice 지침서",
@@ -4036,8 +4111,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2004-09-18",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "A Case Study: Solution &Policies",
@@ -4046,8 +4122,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2004-09-08",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "알기쉬운 스팸대응 현황자료집",
@@ -4056,8 +4133,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2004-05-17",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "정보통신망이용촉진및정보보호등에관한법률",
@@ -4066,8 +4144,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2004-01-26",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "정보통신망이용촉진및정보보호등에관한법률중개정법률안(대안)",
@@ -4076,8 +4155,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2003-12-29",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "2003 스팸대응 세미나",
@@ -4086,8 +4166,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2003-12-26",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "[미국] can-spam act (원문)",
@@ -4096,8 +4177,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2003-12-18",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "[미국] can-spam act (번역문)",
@@ -4106,8 +4188,9 @@
       "publisher": "한국인터넷진흥원 불법스팸대응센터",
       "kind": "안내서·자료",
       "date": "2003-12-18",
-      "status": "",
-      "source": "spam"
+      "status": "최근 자동 확인 불가",
+      "source": "spam",
+      "warning": true
     },
     {
       "title": "「전자금융감독규정」일부개정고시",
