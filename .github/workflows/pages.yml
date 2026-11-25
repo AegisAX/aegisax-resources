@@ -37,6 +37,7 @@ jobs:
       - name: Prepare public files
         run: |
           mkdir _site
+          cp -r share _site/
           cp index.html design.html compliance.html licenses.html styles.css compliance.css home.css app.js compliance.js resources.json compliance-data.json favicon.svg .nojekyll _site/
       - uses: actions/upload-pages-artifact@v4
         with:
