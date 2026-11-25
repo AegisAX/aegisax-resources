@@ -1,0 +1,28 @@
+.home { padding-bottom: 3rem; }
+.home-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(15rem, 1fr);
+  gap: clamp(2rem, 6vw, 6rem);
+  align-items: center;
+  margin: 2rem 0;
+  padding: clamp(1.5rem, 4vw, 4rem);
+  background: linear-gradient(115deg, #123b3e, #205852);
+  border-radius: 1.25rem;
+  color: white;
+}
+.home-intro h1 { font-size: clamp(2.2rem, 5vw, 4.5rem); line-height: 1.12; letter-spacing: -.055em; }
+.home-intro p { max-width: 35rem; margin-top: 1.1rem; color: #e1efeb; font-size: 1.1rem; line-height: 1.8; word-break: keep-all; }
+.home-topics { border-inline-start: 1px solid #548078; padding-inline-start: clamp(1.2rem, 3vw, 3rem); }
+.home-topics h2 { margin-bottom: .5rem; color: #b3ded2; font-size: .95rem; }
+.home-topics a { display: block; padding: .45rem 0; border-bottom: 1px solid #598179; }
+.home-topics a:hover { text-decoration: underline; }
+.home-directory { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; margin-top: .8rem; }
+.home-directory a { padding: 1.6rem; border: 1px solid var(--line); border-top: 3px solid var(--teal); border-radius: .75rem; background: white; }
+.home-directory a:hover, .home-directory a:focus-visible { border-color: var(--teal); background: #eff8f4; }
+.home-directory h3 { font-size: 1.25rem; color: var(--teal-dark); }
+.home-directory p { margin-top: .65rem; line-height: 1.8; color: var(--body); word-break: keep-all; }
+.home-update { margin-top: 1.5rem; color: var(--body); font-size: .95rem; }
+@media (max-width: 740px) {
+  .home-directory, .home-intro { grid-template-columns: 1fr; }
+  .home-topics { padding: 1rem 0 0; border: 0; border-top: 1px solid #548078; }
+}
