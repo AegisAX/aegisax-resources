@@ -1,105 +1,105 @@
 {
-  "checked": "2026-11-26",
+  "checked": "2026-11-27",
   "sources": [
     {
       "id": "정보통신망 이용촉진 및 정보보호 등에 관한 법률",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "정보통신기반 보호법",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "정보통신기반 보호법 시행령",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "정보보호산업의 진흥에 관한 법률",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "정보보호산업의 진흥에 관한 법률 시행령",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "위치정보의 보호 및 이용 등에 관한 법률",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "위치정보의 보호 및 이용 등에 관한 법률 시행령",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "개인정보 보호법",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "개인정보 보호법 시행령",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "전자금융거래법",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "전자금융거래법 시행령",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "신용정보의 이용 및 보호에 관한 법률",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "신용정보의 이용 및 보호에 관한 법률 시행령",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "정보보호 및 개인정보보호 관리체계 인증 등에 관한 고시",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "위치정보의 관리적·기술적 보호조치 기준",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "위치정보보호 법규 위반에 대한 과징금 부과기준",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "개인위치정보사업등록 세부심사기준별 평가방법",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "개인정보의 안전성 확보조치 기준",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "표준 개인정보 보호지침",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "개인정보 영향평가에 관한 고시",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "개인정보 국외 이전 운영 등에 관한 규정",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "전자금융감독규정",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "전자금융감독규정시행세칙",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "신용정보업감독규정",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "pipc",
@@ -108,19 +108,19 @@
     },
     {
       "id": "kisa-guide",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "kisa-manual",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "location-board",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "location-forms",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "spam",
@@ -129,15 +129,15 @@
     },
     {
       "id": "kisa-spam",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "fsc",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "id": "fsec",
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     }
   ],
   "documents": [
@@ -5028,7 +5028,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "tabler",
       "baseline": "c7d24ecd746ff46d2a92807d5219563cfcb8d34d1ceffcd06bfbdf8935d18a44",
@@ -5052,7 +5052,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "undraw",
       "baseline": "875375da443474a7b5c77a744766dc890692d1dd64c9d46f8efc0b4b9b14dac2",
@@ -5065,7 +5065,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "svgrepo",
       "baseline": "3632ce7decd1f5bc5c56feeb8fb3d19a099823af874a861de385ef7b4d3df5cf",
@@ -5089,7 +5089,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "manypixels",
       "baseline": "73c45ea3ad84fdb00917f0054f0ecf120012dfdfac3fa0a69a2c2ff29c7d1eb4",
@@ -5102,7 +5102,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "haikei",
       "baseline": "79d2c2e0aa17d1308b2299e3cae771743c14d5e338dabce3f3f4aff66df104d8",
@@ -5115,7 +5115,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "3dicons",
       "baseline": "01d633d3ab3ddb128509c9af910f995bd59040d5ec0bd7ec435a4afec0aca37a",
@@ -5128,7 +5128,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "material",
       "baseline": "0ffddef9e48f8a09aed5caf2d44f7ba1c1be2d9b8e0a6f693b1635b2d5566645",
@@ -5152,7 +5152,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "heroicons",
       "baseline": "85e2da595f664dcbbc52f9d36e792d85b495520326297a7104e1ea7f668e6678",
@@ -5165,7 +5165,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "cisco",
       "baseline": "1736d28aef46c488a2dd24bdf8279bf8fc81c6bc2492071e8efc384ea5c29345",
@@ -5178,7 +5178,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "phosphor",
       "baseline": "4d293b5ac9f8c326b398e6b7dc44cb3d4092b2a2953282360893cc678ff55339",
@@ -5191,7 +5191,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "drawkit",
       "baseline": "89cdb8b7db064ceb156ae8b7408b1babe6ae42effe4d8cd7f3ad2ad148090276",
@@ -5204,7 +5204,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 변경 감지 · 검토 필요",
       "id": "heropatterns",
       "baseline": "cfdd37a9b22f59a003f37a54c7cf31a14c1cd3b9a14016d052d0a0f60736960b",
@@ -5217,7 +5217,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "fluentemoji",
       "baseline": "1f17794ed0a91f046d197aec731e880a0d318af4832967ff8d86580a16520f6e",
@@ -5230,7 +5230,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "lucide",
       "baseline": "80369a9b8d931cc35e36625742b352ff5745c9e61c05ce8b11ccfcfcb5b7e115",
@@ -5243,7 +5243,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "stocksnap",
       "baseline": "0e13c08ccad53c8c29fb616869ff78536c709550a6978c7ee48e5fad610d6750",
@@ -5256,7 +5256,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "opendoodles",
       "baseline": "16fe90824b7bd4fc8d90d91e022c4cab13a2c480abb797a9daeff60f7d96107c",
@@ -5269,7 +5269,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "bootstrap",
       "baseline": "f5a87679998b42b650bc096565dcdc378f409a47f8e64d6c4e182e2597aed1fa",
@@ -5282,7 +5282,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "storyset",
       "baseline": "2af4dd5750395adc09b4f24950de449764070f9d7431a24259e2afc4d42bb40d",
@@ -5295,7 +5295,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "svgbackgrounds",
       "baseline": "658af85adcb179a37f357ebd1bdead616f59a4d8487a16e89f4f56a7b55fd3bf",
@@ -5308,7 +5308,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "openpeeps",
       "baseline": "9b1f089a471072072f4e52eb3441d7730d5f309f78f30c0fd02472b1b81f7085",
@@ -5321,7 +5321,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "iconoir",
       "baseline": "6ce9dd88e7690bb616cbca555034d64f4ff2910483f3b42450443fdfc3597439",
@@ -5334,7 +5334,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "wikimedia",
       "baseline": "1941898e4993d012f37cfeba86b2f9035ffbaad2e0f5006440f7fdd48d13ff71",
@@ -5347,7 +5347,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "fontawesome",
       "baseline": "f5352f350d385cafe477b675cd3269d70582307bf30421fba562f2f2ff3f6ced",
@@ -5360,11 +5360,11 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 변경 감지 · 검토 필요",
       "id": "openverse",
       "baseline": "9d9fad3c02ac52cd39dda9775fd169f95af1f77454f08ea6eaefd4bc026b2214",
-      "digest": "2c3f12433b5bfc3711eccaf6286e2fe35d14c501e9987c2331b74d0d5bad9576",
+      "digest": "4700e4e32aaa4bf5d47a650b145f8c39cc58207628c7eaabb0e5c1d94142805c",
       "warning": true
     },
     {
@@ -5384,7 +5384,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "azure",
       "baseline": "eefbdd1c4d7260469247a2ce36c210844be6fd23558a32364c76a2d54a6167bd",
@@ -5397,7 +5397,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "aws",
       "baseline": "d2c59d31e1496749c3421511431283ce9eaf669a95b2d45203260ab6d89f500e",
@@ -5421,7 +5421,7 @@
       "topic": "licenses",
       "publisher": "디자인 자료",
       "kind": "라이선스·이용 조건",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "icons8",
       "baseline": "f55f8aca2b51da275994ff9441b30505fc2b276df3dc899d899d9ba2a1a9e84a",
@@ -5434,7 +5434,7 @@
       "topic": "licenses",
       "publisher": "공공누리",
       "kind": "공공저작물·저작권 정책",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 변경 감지 · 검토 필요",
       "id": "kogl",
       "baseline": "ade2e5c87ea2f141125616037a258eb37afcdbb838b1fe0f38f8501c370781fa",
@@ -5447,7 +5447,7 @@
       "topic": "licenses",
       "publisher": "금융위원회",
       "kind": "공공저작물·저작권 정책",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "status": "원문 응답 확인",
       "id": "fsc-policy",
       "baseline": "e5e6fecabdcacbd86039c1fa8b70e90bfe12e62b4c3896b0ddf6614e7014c850",
